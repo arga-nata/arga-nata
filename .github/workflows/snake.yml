@@ -14,9 +14,9 @@ jobs:
       - name: Generate snake game
         uses: platane/snk@master
         with:
-          github_user: 'Arganata-on'  # Ganti dengan username GitHub kamu
-          svg_out: 'snake.svg'
-          svg_size: '250'
+          github_user: 'Arganata-on'  # Username GitHub kamu
+          svg_out: 'snake.svg'          # Nama file output
+          svg_size: '250'               # Ukuran SVG
           
       - name: Commit and push snake
         run: |
