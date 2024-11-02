@@ -28,7 +28,7 @@ align="center">
 ###
 
 <br clear="both">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/snake.svg" alt="Snake animation" />
 
 ###
