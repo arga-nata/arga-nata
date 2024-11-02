@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
@@ -28,8 +28,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/Arganata-on/Arganata-on/blob/main/snake.svg)
 ###
 
 <div align="center">
