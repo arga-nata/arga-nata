@@ -1,15 +1,20 @@
 <div align="left">
+  
 # Hi there! 👋 I'm Arganata!
 
 ###
 <div align="center">
+  
   <img height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 <div align="left">
+  
 # Languages and tools that I'm currently learning :
 
 ###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
@@ -29,6 +34,7 @@
 ###
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arganata-on&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Arganata-on&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  
 ###
 
 # Connect with me !
