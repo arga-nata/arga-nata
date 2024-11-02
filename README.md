@@ -7,7 +7,8 @@
 </div>
 
 ###
-
+<div align="center">
+  
 # Languages and tools that I'm currently learning 🚀
 
 ###
