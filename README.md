@@ -40,7 +40,7 @@ align="center">
 
 ###
 
-<h2 align="left">Connect with me ! 🐱</h2>
+# Connect with me ! 🐱
 
 ###
 
