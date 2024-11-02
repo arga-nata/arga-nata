@@ -1,4 +1,5 @@
 <div align="center">
+  
 # Hi there! 👋 I'm Arganata!
 
 ###
@@ -7,7 +8,7 @@
 
 ###
 
-<h3 align="center">Languages and tools that I'm currently learning 🚀</h3>
+# Languages and tools that I'm currently learning 🚀
 
 ###
 
