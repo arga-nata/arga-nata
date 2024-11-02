@@ -1,4 +1,4 @@
-align="center">
+<align="center">
 # Hi there! 👋 I'm Arganata!
 
 ###
