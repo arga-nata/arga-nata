@@ -1,4 +1,5 @@
-<h1 align="center">Hi there! 👋 I'm Arganata!</h1>
+<div align="center">
+#Hi there! 👋 I'm Arganata!
 
 ###
 
