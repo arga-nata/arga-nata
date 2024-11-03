@@ -11,7 +11,7 @@
 ###
 <div align="left">
   
-# Languages and Tools 🚀
+# Languages and Tools
 
 ###
 
