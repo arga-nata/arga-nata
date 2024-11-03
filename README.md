@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   
 <h2>Hi there! 👋 I'm Arganata!</h2>
 
