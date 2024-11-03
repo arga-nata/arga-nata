@@ -15,7 +15,7 @@
 ###
 <div align="left">
   
-# Languages and Tools
+<h2>Languages and Tools</h2>
 
 ###
 
