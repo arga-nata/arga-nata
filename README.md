@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   
 # Hi there! 👋 I'm Arganata!
 
@@ -7,7 +7,7 @@
 </div>
 
 ###
-<div align="center">
+<div align="left">
   
 # Languages and tools that I'm currently learning 🚀
 
