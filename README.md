@@ -11,7 +11,7 @@
 ###
 <div align="left">
   
-# Languages and tools that I'm currently learning 🚀
+# Languages and Tools 🚀
 
 ###
 
