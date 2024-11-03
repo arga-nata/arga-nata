@@ -1,6 +1,6 @@
 <div align="left">
   
-# Hi there! 👋 I'm Arganata!
+<h2>Hi there! 👋 I'm Arganata!</h2>
 
 ###
 
