@@ -13,7 +13,8 @@
 <div align="left">
  
 🌱 I’m currently learning
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://linkedin.com/in/pedro-sales-muniz" target="_blank")(#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://linkedin.com/in/pedro-sales-muniz)(#)
+
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
