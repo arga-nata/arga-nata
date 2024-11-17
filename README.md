@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" style="width: 100%; max-width: 800px; height: auto;"/>
+    <img src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" style="width: 100%; max-width: 800px; height: auto;" />
 </div>
 
 <h3 align="center">Welcome to my GitHub profile🙀!</h3>
@@ -12,13 +12,15 @@
 
 <div align="left">
  
- 🌱 I’m currently learning [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+🌱 I’m currently learning [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:arganata.on@gmail.com">
@@ -32,7 +34,7 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -42,15 +44,15 @@
 </div>
 
 <div align="center">
-<h2 align="center">Where to learn ?</h2>
+<h2 align="center">Where to learn?</h2>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![C++ Full Course for free ⚡️](https://ytcards.demolab.com/?id=-TkoO8Z07hI&title=C%2B%2B+Full+Course+for+free+⚡️&lang=en&timestamp=1656460800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21600 "C++ Full Course for free ⚡️")](https://youtu.be/-TkoO8Z07hI?si=)
-[![Python Full Course for free 🐍](https://ytcards.demolab.com/?id=XKHEtdqhLK8&title=Python+Full+Course+for+free+🐍&lang=en&timestamp=1613347200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43200 "Python Full Course for free 🐍")](https://www.youtube.com/watch?v=XKHEtdqhLK8)
-[![My Computer Science degree in 13 minutes](https://ytcards.demolab.com/?id=Dd_4zfmY-aA&title=My+Computer+Science+degree+in+13+minutes&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786 "My Computer Science degree in 13 minutes")](https://youtu.be/Dd_4zfmY-aA?si=1AhwiUIamfs6clV3)
-[![How I would learn to code (if I could start over)](https://ytcards.demolab.com/?id=kS03mP7p0ts&title=How+I+would+learn+to+code+(+if+I+could+start+over+)&lang=en&timestamp=1698663600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=695 "How I would learn to code (if I could start over)")](https://youtu.be/kS03mP7p0ts?si=7UXbigeHmyTVGP60)
-[![How to prep for CS?](https://ytcards.demolab.com/?id=YBMf2o2MVDg&title=How+to+prep+for+CS?+Do+I+need+Maths?&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=860 "How to prep for CS? Do I need Maths?")](https://youtu.be/YBMf2o2MVDg?si=KGaQIzz_8E6JFYlD)
-[![How I organise my life with Notion](https://ytcards.demolab.com/?id=orJOLdv907g&title=How+I+organise+my+life+with+Notion&lang=en&timestamp=1616324400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "How I organise my life with Notion")](https://youtu.be/orJOLdv907g?si=r31zLR2hnvJiw5p7)
+[![C++ Full Course for free ⚡️](https://ytcards.demolab.com/?id=-TkoO8Z07hI&title=C%2B%2B+Full+Course+for+free+⚡️&lang=en&timestamp=1656460800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21600)](https://youtu.be/-TkoO8Z07hI?si=)
+[![Python Full Course for free 🐍](https://ytcards.demolab.com/?id=XKHEtdqhLK8&title=Python+Full+Course+for+free+🐍&lang=en&timestamp=1613347200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43200)](https://www.youtube.com/watch?v=XKHEtdqhLK8)
+[![My Computer Science degree in 13 minutes](https://ytcards.demolab.com/?id=Dd_4zfmY-aA&title=My+Computer+Science+degree+in+13+minutes&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786)](https://youtu.be/Dd_4zfmY-aA?si=1AhwiUIamfs6clV3)
+[![How I would learn to code (if I could start over)](https://ytcards.demolab.com/?id=kS03mP7p0ts&title=How+I+would+learn+to+code+(+if+I+could+start+over+)&lang=en&timestamp=1698663600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=695)](https://youtu.be/kS03mP7p0ts?si=7UXbigeHmyTVGP60)
+[![How to prep for CS?](https://ytcards.demolab.com/?id=YBMf2o2MVDg&title=How+to+prep+for+CS?+Do+I+need+Maths?&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=860)](https://youtu.be/YBMf2o2MVDg?si=KGaQIzz_8E6JFYlD)
+[![How I organise my life with Notion](https://ytcards.demolab.com/?id=orJOLdv907g&title=How+I+organise+my+life+with+Notion&lang=en&timestamp=1616324400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253)](https://youtu.be/orJOLdv907g?si=r31zLR2hnvJiw5p7)
 <!-- END YOUTUBE-CARDS -->
 </div>
 <br/>
@@ -64,7 +66,6 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
@@ -86,7 +87,9 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
+    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
 </div>
 
 <br/>
