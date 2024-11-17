@@ -6,7 +6,7 @@
     <img src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" style="width: 100%; max-width: 800px; height: auto;" />
 </div>
 
-<h2 align="center">Welcome to my GitHub profile🙀!</h2>
+<h2 align="left">Welcome to my GitHub profile🙀!</h2>
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 </div>
  
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:arganata.on@gmail.com">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
   </a>
@@ -35,17 +35,17 @@
 
 <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <hr/>
 
-<div align="center">
-<h2 align="center">Where do i learn🤔?</h2>
+<div align="left">
+<h2 align="left">Where do i learn🤔?</h2>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![C++ Full Course for free ⚡️](https://ytcards.demolab.com/?id=-TkoO8Z07hI&title=C%2B%2B+Full+Course+for+free+⚡️&lang=en&timestamp=1656460800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21600)](https://www.youtube.com/watch?v=-TkoO8Z07hI)
@@ -59,7 +59,7 @@
 <br/>
 <hr/>
 
-<div align="center">
+<div align="left">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
@@ -68,9 +68,9 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<div align=left>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arganata-on&count_private=true&theme=default&border_radius=10" alt="streak stats"/>
     <br>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=arganata-on&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10" alt="readme stats" />
