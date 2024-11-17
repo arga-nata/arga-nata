@@ -34,6 +34,12 @@
   <a href="https://www.instagram.com/arganata.on/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank" />
   </a>
+    <a href="https://wa.me/6289696898001?text=Bang" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" target="_blank" />
+  </a>
+    <a href="https://www.youtube.com/@Arganata.YouTube" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 <hr/>
