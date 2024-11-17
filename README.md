@@ -12,9 +12,7 @@
 
 <div align="left">
  
-🌱 I’m currently learning [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+🌱 I’m currently learning [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#), [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)and [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
