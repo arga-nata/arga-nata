@@ -6,7 +6,7 @@
     <img src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" style="width: 100%; max-width: 800px; height: auto;" />
 </div>
 
-<h2 align="left">Welcome to my GitHub profile🙀!</h2>
+<h2 align="left">🙀Welcome to my GitHub profile!🙀</h2>
 
 <br/>
 
