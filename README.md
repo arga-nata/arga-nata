@@ -1,8 +1,8 @@
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arganata!;" />
 </h1>
 
-<div align="center">
+<div align="left">
     <img src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" style="width: 100%; max-width: 800px; height: auto;" />
 </div>
 
