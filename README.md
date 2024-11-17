@@ -11,7 +11,7 @@
 <br/>
 
 <div align="left">
-<img align="right" alt="Octocat" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Octocat" width="400" src="https://octodex.github.com/images/NUX_Octodex.gif">
  
  🌱 I’m currently learning **C++, Phyton, JavaScript**
 
