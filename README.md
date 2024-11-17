@@ -41,10 +41,8 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
-<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
-<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
-<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+<h2 align="center">Where to learn ?</h2>
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![C++ Full Course for free ⚡️](https://ytcards.demolab.com/?id=-TkoO8Z07hI&title=C%2B%2B+Full+Course+for+free+⚡️&lang=en&timestamp=1656460800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21600 "C++ Full Course for free ⚡️")](https://youtu.be/-TkoO8Z07hI?si=)
 [![Python Full Course for free 🐍](https://ytcards.demolab.com/?id=XKHEtdqhLK8&title=Python+Full+Course+for+free+🐍&lang=en&timestamp=1613347200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43200 "Python Full Course for free 🐍")](https://www.youtube.com/watch?v=XKHEtdqhLK8)
