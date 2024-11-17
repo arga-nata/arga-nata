@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width: 100%; max-width: 800px; height: auto;"/>
+    <img src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" style="width: 100%; max-width: 800px; height: auto;"/>
 </div>
 
 <h3 align="center">A passionate software developer from Indonesia</h3>
@@ -11,7 +11,6 @@
 <br/>
 
 <div align="left">
-<img align="right" alt="Octocat" width="400" src="https://octodex.github.com/images/NUX_Octodex.gif">
  
  🌱 I’m currently learning **C++, Phyton, JavaScript**
 
@@ -23,7 +22,7 @@
  
 <div align="center"> 
   <a href="mailto:arganata.on@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
