@@ -22,7 +22,10 @@
 </div>
  
 <div align="left"> 
-  <a href="mailto:arganata.on@gmail.com">
+  <a href="https://discordapp.com/users/1134220267535745065">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" />
+  </a>
+    <a href="mailto:arganata.on@gmail.com">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
