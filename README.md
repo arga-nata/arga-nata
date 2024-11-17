@@ -17,7 +17,7 @@
 
 💬 Motto **"Code is my art, gaming is my journey, and the late hours ignite my drive!"**
 
-⚡ Fun Facts: **C++ is my favorite language [here is my projects](https://github.com/Arganata-on/learn_cpp)**
+⚡ Fun Facts: **C++ is my favorite languagel👍**
 
 </div>
  
