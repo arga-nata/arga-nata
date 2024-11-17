@@ -47,7 +47,7 @@
 <hr/>
 
 <div align="center">
-<h2 align="center">Where to learn🤔?</h2>
+<h2 align="center">Where do i learn🤔?</h2>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![C++ Full Course for free ⚡️](https://ytcards.demolab.com/?id=-TkoO8Z07hI&title=C%2B%2B+Full+Course+for+free+⚡️&lang=en&timestamp=1656460800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21600)](https://youtu.be/-TkoO8Z07hI?si=)
