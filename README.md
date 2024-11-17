@@ -17,9 +17,9 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **"Code is my art, gaming is my journey, and the late hours ignite my drive!"**
 
-⚡ Motto: **"Code is my art, gaming is my journey, and the late hours ignite my drive!"**
+⚡ Fun Facts: **C++ is my favorite language [here is mine](https://github.com/Arganata-on/learn_cpp)**
 
 </div>
  
