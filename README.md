@@ -80,5 +80,5 @@
 <br>
 <div align=left>
  <img src="https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=donut" />
 </div>
