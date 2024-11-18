@@ -79,7 +79,7 @@
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align=left>
- <img src="https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true&theme=radical"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true"/>
     <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on)](https://github.com/Arganata-on/github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on" />
 </div>
