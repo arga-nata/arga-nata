@@ -80,5 +80,6 @@
 <br>
 <div align=left>
  <img src="https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true"/>
+    <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=donut" />
 </div>
