@@ -25,7 +25,7 @@
  
 <div align="left"> 
   <a href="https://discordapp.com/users/1134220267535745065" >
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/discord.svg?short_path=886ba9d" />
   </a>
     <a href="https://www.facebook.com/satania.kejedot.54/" >
      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
