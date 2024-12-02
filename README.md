@@ -70,6 +70,6 @@
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align=left>
- ![g<img src="https://stats.hyo.dev/api/github-stats-advanced?login=hyochan" />
+ <img src="https://stats.hyo.dev/api/github-stats-advanced?login=Arganata-on" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on" />
 </div>
