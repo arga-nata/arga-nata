@@ -71,5 +71,4 @@
 <br>
 <div align=left>
  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=Arganata-on" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on" />
 </div>
