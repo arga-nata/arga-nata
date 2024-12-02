@@ -28,7 +28,7 @@
     <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/discord.svg?short_path=886ba9d" />
   </a>
     <a href="https://www.facebook.com/satania.kejedot.54/" >
-     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+     <img src="https://www.flaticon.com/free-icon/facebook_5968764?term=facebook&page=1&position=8&origin=search&related_id=5968764" />
   </a>
     <a href="mailto:arganata.on@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
