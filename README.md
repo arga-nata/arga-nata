@@ -70,5 +70,5 @@
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align=left>
- <img src="https://stats.hyo.dev/api/github-stats-advanced?login=Arganata-on" />
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 </div>
