@@ -70,9 +70,9 @@
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true&theme=transparent)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arganata)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on)](https://github.com/anuraghazra/github-readme-stats)
 
