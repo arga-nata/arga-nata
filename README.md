@@ -48,10 +48,15 @@
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![HTML & CSS Full Course for free 🌎](https://ytcards.demolab.com/?id=HGTJBPNC-Gw&title=HTML+%26+CSS+Full+Course+for+free+🌎&lang=en&timestamp=1685491200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14562 "HTML & CSS Full Course for free 🌎")](https://www.youtube.com/watch?v=HGTJBPNC-Gw)
+
 [![C++ Full Course for free ⚡️](https://ytcards.demolab.com/?id=-TkoO8Z07hI&title=C%2B%2B+Full+Course+for+free+⚡️&lang=en&timestamp=1656460800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21600)](https://www.youtube.com/watch?v=-TkoO8Z07hI)
+
 [![Python Full Course for free 🐍](https://ytcards.demolab.com/?id=XKHEtdqhLK8&title=Python+Full+Course+for+free+🐍&lang=en&timestamp=1613347200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43200)](https://www.youtube.com/watch?v=XKHEtdqhLK8)
+
 [![Python Full Course for free 🐍 (2024)](https://ytcards.demolab.com/?id=ix9cRaBkVe0&title=Python+Full+Course+for+free+🐍+(2024)&lang=en&timestamp=1724112000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43200 "Python Full Course for free 🐍 (2024)")](https://www.youtube.com/watch?v=ix9cRaBkVe0)
+
 [![JavaScript Full Course for free 🌐 (2024)](https://ytcards.demolab.com/?id=lfmg-EJ8gm4&title=JavaScript+Full+Course+for+free+🌐+(2024)&lang=en&timestamp=1704067200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43200 "JavaScript Full Course for free 🌐 (2024)")](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
+
 [![C# Full Course for free 🚀](https://ytcards.demolab.com/?id=wxznTygnRfQ&title=C%23+Full+Course+for+free+🚀&lang=en&timestamp=1625443200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14400 "C# Full Course for free 🚀")](https://www.youtube.com/watch?v=wxznTygnRfQ)
 <!-- END YOUTUBE-CARDS -->
 </div>
@@ -73,7 +78,10 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
