@@ -70,6 +70,8 @@
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arganata)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
