@@ -1,6 +1,12 @@
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arganata!;" />
-</h1>
+<table align="left">
+  <tr>
+    <td>
+		<a href="https://discord.com/users/1134220267535745065" target="_blank" rel="nofollow">
+			<img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
+		</a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -9,6 +15,7 @@
 🌱 I’m currently learning
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://github.com/Arganata-on/learn_cpp)&nbsp;
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://github.com/Arganata-on/learn-python)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
 💬 Motto: **"Code is my art, gaming is my journey, and the late hours ignite my drive!"**
 
@@ -26,22 +33,12 @@
     <a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 </div>
 
-<table align="left">
-  <tr>
-    <td>
-		<a href="https://discord.com/users/1134220267535745065" target="_blank" rel="nofollow">
-			<img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
-		</a>
-    </td>
-  </tr>
-</table>
-
 <hr/>
  
 <h2 align="left">🚀 Languages-Frameworks-Tools 🚀</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,css,discord,git,github,html,pycharm,py,tensorflow,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,discord,git,github,html,js,pycharm,py,tensorflow,visualstudio,vscode" />
 </div>
 
 <hr/>
