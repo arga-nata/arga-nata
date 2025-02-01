@@ -77,11 +77,11 @@ These are some statistics from my github account.
 	</tr>
 </table>
 
-  <tr>
+<table>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true" />
     </td>
-  </tr>
+</table>
