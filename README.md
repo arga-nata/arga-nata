@@ -9,9 +9,6 @@
 
 ⚡ Fun Fact: **C++ is my favorite language👍**
 
-</div>
- 
-<div align="left"> 
   <a href="https://discordapp.com/users/1134220267535745065" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord" /></a>
     <a href="https://www.facebook.com/satania.kejedot.54/" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
     <a href="mailto:arganata.on@gmail.com">
@@ -19,10 +16,7 @@
   <a href="https://www.instagram.com/arganata.on/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
     <a href="https://wa.me/6289696898001?text=Bang" ><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a>
     <a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
-</div>
 
-<hr/>
- 
 <h2 align="left">🚀 Languages-Frameworks-Tools 🚀</h2>
 <br/>
 <div align="left">
