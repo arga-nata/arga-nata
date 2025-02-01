@@ -20,9 +20,12 @@
 <a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 
 </td>
-
-</tr>
-
+    <td>
+		<a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
+			<img src="https://lanyard-profile-readme.vercel.app/api/290131759159443457?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
+		</a>
+    </td>
+  </tr>
 </table>
 <br/><br/>
 <h2 align="left">🚀 Languages-Frameworks-Tools 🚀</h2>
