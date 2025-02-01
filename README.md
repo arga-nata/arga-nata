@@ -20,10 +20,8 @@
 <h2 align="left">🚀 Languages-Frameworks-Tools 🚀</h2>
 <img src="https://skillicons.dev/icons?i=cpp,css,discord,git,github,html,js,pycharm,py,tensorflow,visualstudio,vscode" />
 
-<div align="left">
-  <h2>🐍 My Contributions 🐍</h2>
-  
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake-dark.svg" />
+<h2>🐍 My Contributions 🐍</h2>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake-dark.svg" />
 
 <h2 align="left">⚡ Stats ⚡</h2>
 
