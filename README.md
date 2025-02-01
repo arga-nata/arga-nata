@@ -12,7 +12,7 @@
     </td>
     </td>
 		<a href="https://discord.com/users/1134220267535745065" target="_blank" rel="nofollow">
-			<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Discord Presence" align="center">&nbsp;
+			<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Discord Presence" align="center&nbsp;">
 		</a>
     </td>
   </tr>
