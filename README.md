@@ -9,7 +9,7 @@
 
 ⚡ Fun Fact: **C++ is my favorite language**
 
-<a href="https://discordapp.com/users/1134220267535745065" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://discordapp.com/users/1134220267535745065" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" /></a>
 <a href="https://www.facebook.com/satania.kejedot.54/" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
 <a href="mailto:arganata.on@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
@@ -18,7 +18,7 @@
 <a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 
 <h2 align="left">🚀 Languages-Frameworks-Tools 🚀</h2>
-<img src="https://skillicons.dev/icons?i=cpp,css,discord,git,github,html,js,pycharm,py,tensorflow,visualstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,css,discord,git,github,html,js,pycharm,py,stackoverflow,visualstudio,vscode" />
 
 <h2>🐍 My Contributions 🐍</h2>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake-dark.svg" />
