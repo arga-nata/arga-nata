@@ -5,11 +5,13 @@
 			<img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
 		</a>
     </td>
+    🌱 I’m currently learning
+		<a href="https://discord.com/users/1134220267535745065" target="_blank" rel="nofollow">
+			<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="Discord Presence" align="center">
+		</a>
+    </td>
   </tr>
 </table>
-
-<br/>
-<br/>
 
 <div align="left">
 
