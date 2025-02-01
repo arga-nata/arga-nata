@@ -82,8 +82,8 @@ These are some statistics from my github account.
     <td align="center" style="padding=0;width=50%;">
 			<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true" />
 		</td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+    <td align="center" style="padding=0;width=50%;">
+			<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats" />
+		</td>
   </tr>
 </table>
