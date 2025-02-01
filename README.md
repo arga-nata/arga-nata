@@ -5,20 +5,21 @@
 			<img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
 		</a>
     </td>
-    🌱 I’m currently learning
-		<a href="https://discord.com/users/1134220267535745065" target="_blank" rel="nofollow">
-			<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="Discord Presence" align="center">
-		</a>
-    </td>
-    </td>
-		<a href="https://discord.com/users/1134220267535745065" target="_blank" rel="nofollow">
-			<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"&nbsp; alt="Discord Presence" align="center">
-		</a>
-    </td>
   </tr>
 </table>
 
+<div align="left">
 
+🌱 I’m currently learning
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://github.com/Arganata-on/learn_cpp)&nbsp;
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://github.com/Arganata-on/learn-python)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+
+💬 Motto: **"Code is my art, gaming is my journey, and the late hours ignite my drive!"**
+
+⚡ Fun Fact: **C++ is my favorite language👍**
+
+</div>
  
 <div align="left"> 
   <a href="https://discordapp.com/users/1134220267535745065" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord" /></a>
