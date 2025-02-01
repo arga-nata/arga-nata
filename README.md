@@ -1,18 +1,5 @@
 <div align="left">
-<table align="left">
-  <tr>
-    <td>
-		<a href="https://discord.com/users/1134220267535745065" target="_blank" rel="nofollow">
-			<img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
-		</a>
-    </td>
-    <td>
-		<a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
-			<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" align="center">
-		</a>
-    </td>
-  </tr>
-</table>
+
 🌱 I’m currently learning
 <a href="https://github.com/Arganata-on/learn-cpp"><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" /></a>
 <a href="https://github.com/Arganata-on/learn-python"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" /></a>
@@ -30,7 +17,6 @@
 <a href="https://wa.me/6289696898001?text=Bang" ><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a>
 <a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 <br/><br/>
-
 <h2 align="left">🚀 Languages-Frameworks-Tools 🚀</h2>
 <img src="https://skillicons.dev/icons?i=cpp,css,discord,git,github,html,js,pycharm,py,stackoverflow,vscode,visualstudio" />
 <br/><br/>
