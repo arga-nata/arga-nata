@@ -25,6 +25,7 @@
 
 <h2>⚡ Stats ⚡</h2>
 <img align="left" style="padding=0;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arganata-on&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true" />
+
 <img align="left" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true" />
 
 <table>
