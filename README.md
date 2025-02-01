@@ -82,12 +82,12 @@ These are some statistics from my github account.
 
 <table>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true" />
 </table>
