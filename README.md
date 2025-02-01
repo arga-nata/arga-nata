@@ -1,8 +1,8 @@
-<div align="left">
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/1134220267535745065?showDisplayName=true)](https://discord.com/users/1134220267535745065)
 
 </hr>
+
+<div align="left">
 
 🌱 I’m currently learning
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://github.com/Arganata-on/learn_cpp)&nbsp;
