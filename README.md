@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td align="center" style="padding=0;width=50%;">
+    <td align="left" style="padding=0;width=50%;">
 <h2>🐍 My Contributions 🐍</h2>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake-dark.svg" />
     </td>
