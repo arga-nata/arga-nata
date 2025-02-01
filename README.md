@@ -5,9 +5,9 @@
 <a href="https://github.com/Arganata-on/learn-python"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" /></a>
 <a href="https://github.com/Arganata-on/learn-javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" /></a>
 
-💬 Motto: **"Code is my art, gaming is my journey, and the late hours ignite my drive!"🦉**
+💬 Motto: **"Code is my art, gaming is my journey, and the late hours ignite my drive!"**
 
-⚡ Fun Fact: **C++ is my favorite language👾**
+⚡ Fun Fact: **C++ is my favorite language**
 
 <a href="https://discordapp.com/users/1134220267535745065" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://www.facebook.com/satania.kejedot.54/" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
