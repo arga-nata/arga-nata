@@ -2,11 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arganata!;" />
 </h1>
 
-<div align="left">
-    <img src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" style="width: 100%; max-width: 800px; height: auto;" />
-</div>
-
-<h2 align="left">🙀 Welcome to my GitHub profile! 🙀</h2>
+<table align="left">
+  <tr>
+    <td>
+		<a href="https://discord.com/users/1134220267535745065" target="_blank" rel="nofollow">
+			<img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
+		</a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -47,12 +51,14 @@
 <h2 align="left">🤔 Where do i learn ? 🤔</h2>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![HTML & CSS Full Course for free 🌎](https://ytcards.demolab.com/?id=HGTJBPNC-Gw&title=HTML+%26+CSS+Full+Course+for+free+🌎&lang=en&timestamp=1685491200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14562 "HTML & CSS Full Course for free 🌎")](https://www.youtube.com/watch?v=HGTJBPNC-Gw)
 [![C++ Full Course for free ⚡️](https://ytcards.demolab.com/?id=-TkoO8Z07hI&title=C%2B%2B+Full+Course+for+free+⚡️&lang=en&timestamp=1656460800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21600)](https://www.youtube.com/watch?v=-TkoO8Z07hI)
 [![Python Full Course for free 🐍](https://ytcards.demolab.com/?id=XKHEtdqhLK8&title=Python+Full+Course+for+free+🐍&lang=en&timestamp=1613347200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43200)](https://www.youtube.com/watch?v=XKHEtdqhLK8)
-[![Python Full Course for free 🐍 (2024)](https://ytcards.demolab.com/?id=ix9cRaBkVe0&title=Python+Full+Course+for+free+🐍+(2024)&lang=en&timestamp=1724112000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43200 "Python Full Course for free 🐍 (2024)")](https://www.youtube.com/watch?v=ix9cRaBkVe0)
-[![JavaScript Full Course for free 🌐 (2024)](https://ytcards.demolab.com/?id=lfmg-EJ8gm4&title=JavaScript+Full+Course+for+free+🌐+(2024)&lang=en&timestamp=1704067200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43200 "JavaScript Full Course for free 🌐 (2024)")](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
+[![Python Full Course for free 🐍 (2024)](<https://ytcards.demolab.com/?id=ix9cRaBkVe0&title=Python+Full+Course+for+free+🐍+(2024)&lang=en&timestamp=1724112000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43200> "Python Full Course for free 🐍 (2024)")](https://www.youtube.com/watch?v=ix9cRaBkVe0)
+[![JavaScript Full Course for free 🌐 (2024)](<https://ytcards.demolab.com/?id=lfmg-EJ8gm4&title=JavaScript+Full+Course+for+free+🌐+(2024)&lang=en&timestamp=1704067200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43200> "JavaScript Full Course for free 🌐 (2024)")](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 [![C# Full Course for free 🚀](https://ytcards.demolab.com/?id=wxznTygnRfQ&title=C%23+Full+Course+for+free+🚀&lang=en&timestamp=1625443200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14400 "C# Full Course for free 🚀")](https://www.youtube.com/watch?v=wxznTygnRfQ)
+
 <!-- END YOUTUBE-CARDS -->
 </div>
 <br/>
