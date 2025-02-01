@@ -1,7 +1,7 @@
 <div align="left">
 <table>
-	<tr>
-		<td>
+<tr>
+<td>
 🌱 I’m currently learning
 <a href="https://github.com/Arganata-on/learn-cpp"><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" /></a>
 <a href="https://github.com/Arganata-on/learn-python"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" /></a>
