@@ -1,5 +1,9 @@
 <div align="left">
- 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1134220267535745065)](https://discord.com/users/1134220267535745065)
+
+</hr>
+
 🌱 I’m currently learning
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://github.com/Arganata-on/learn_cpp)&nbsp;
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://github.com/Arganata-on/learn-python)&nbsp;
@@ -19,12 +23,6 @@
   <a href="https://www.instagram.com/arganata.on/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
     <a href="https://wa.me/6289696898001?text=Bang" ><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a>
     <a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
-</div>
-
-<div
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1134220267535745065)](https://discord.com/users/1134220267535745065)
-
 </div>
 
 <hr/>
