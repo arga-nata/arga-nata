@@ -8,7 +8,7 @@
     </td>
     <td>
 		<a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
-			<img src="https://lanyard-profile-readme.vercel.app/api/290131759159443457?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
+			<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" align="center">
 		</a>
     </td>
   </tr>
