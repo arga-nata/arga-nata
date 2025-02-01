@@ -1,5 +1,5 @@
 <div align="left">
-<table align="center">
+<table align="left">
   <tr>
     <td>
 		<a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
