@@ -7,7 +7,7 @@
 
 💬 Motto: **"Code is my art, gaming is my journey, and the late hours ignite my drive!"**
 
-⚡ Fun Fact: **C++ is my favorite language**
+⚡ Fun Fact: **C++ is my favorite languages**
 
 <a href="https://discordapp.com/users/1134220267535745065" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" /></a>
 <a href="https://www.facebook.com/satania.kejedot.54/" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
