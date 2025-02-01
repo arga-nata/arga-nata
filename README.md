@@ -82,7 +82,7 @@ These are some statistics from my github account.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
