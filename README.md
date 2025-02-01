@@ -7,12 +7,12 @@
     </td>
     🌱 I’m currently learning
 		<a href="https://discord.com/users/1134220267535745065" target="_blank" rel="nofollow">
-			<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="Discord Presence" align="center&nbsp;">
+			<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="Discord Presence" align="center">
 		</a>
     </td>
     </td>
 		<a href="https://discord.com/users/1134220267535745065" target="_blank" rel="nofollow">
-			<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Discord Presence" align="center&nbsp;">
+			<img src="https://img.shields.io/badge/nbsp;&Python-3776AB?logo=python&logoColor=fff" alt="Discord Presence" align="center">
 		</a>
     </td>
   </tr>
