@@ -80,7 +80,7 @@ These are some statistics from my github account.
 	</tr>
 </table>
 
-<picture>
+<table>
   <source
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true&layout=compact"
     media="(prefers-color-scheme: dark)"
@@ -90,4 +90,4 @@ These are some statistics from my github account.
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true" />
-</picture>
+</table>
