@@ -2,16 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arganata!;" />
 </h1>
 
-<table align="left">
-  <tr>
-    <td>
-		<a href="https://discord.com/users/1134220267535745065" target="_blank" rel="nofollow">
-			<img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
-		</a>
-    </td>
-  </tr>
-</table>
-
 <br/>
 
 <div align="left">
@@ -25,6 +15,16 @@
 ⚡ Fun Fact: **C++ is my favorite language👍**
 
 </div>
+
+<table align="left">
+  <tr>
+    <td>
+		<a href="https://discord.com/users/1134220267535745065" target="_blank" rel="nofollow">
+			<img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
+		</a>
+    </td>
+  </tr>
+</table>
  
 <div align="left"> 
   <a href="https://discordapp.com/users/1134220267535745065" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord" /></a>
