@@ -31,9 +31,6 @@
 
 ---
 
-<div align="left">
-<h2 align="left">🤔 Where do i learn ? 🤔</h2>
-
 <!-- BEGIN YOUTUBE-CARDS -->
 
 [![HTML & CSS Full Course for free 🌎](https://ytcards.demolab.com/?id=HGTJBPNC-Gw&title=HTML+%26+CSS+Full+Course+for+free+🌎&lang=en&timestamp=1685491200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14562 "HTML & CSS Full Course for free 🌎")](https://www.youtube.com/watch?v=HGTJBPNC-Gw)
@@ -44,7 +41,6 @@
 [![C# Full Course for free 🚀](https://ytcards.demolab.com/?id=wxznTygnRfQ&title=C%23+Full+Course+for+free+🚀&lang=en&timestamp=1625443200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14400 "C# Full Course for free 🚀")](https://www.youtube.com/watch?v=wxznTygnRfQ)
 
 <!-- END YOUTUBE-CARDS -->
-</div>
 
 ---
 
