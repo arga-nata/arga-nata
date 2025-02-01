@@ -19,7 +19,6 @@
 🌱 I’m currently learning
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://github.com/Arganata-on/learn_cpp)&nbsp;
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://github.com/Arganata-on/learn-python)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
 💬 Motto: **"Code is my art, gaming is my journey, and the late hours ignite my drive!"**
 
@@ -42,7 +41,7 @@
 <h2 align="left">🚀 Languages-Frameworks-Tools 🚀</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,css,discord,git,github,html,js,pycharm,py,tensorflow,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,discord,git,github,html,pycharm,py,tensorflow,visualstudio,vscode" />
 </div>
 
 <hr/>
