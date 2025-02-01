@@ -1,4 +1,4 @@
-<table align="center">
+<table align="left">
   <tr>
     <td>
 		<a href="https://discord.com/users/1134220267535745065" target="_blank" rel="nofollow">
