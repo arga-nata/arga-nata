@@ -1,13 +1,3 @@
-<table align="left">
-  <tr>
-    <td>
-		<a href="https://discord.com/users/1134220267535745065" target="_blank" rel="nofollow">
-			<img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
-		</a>
-    </td>
-  </tr>
-</table>
-
 <div align="left">
 
 🌱 I’m currently learning
