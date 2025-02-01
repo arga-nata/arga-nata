@@ -1,7 +1,8 @@
 <div align="left">
 
 🌱 I’m currently learning
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://github.com/Arganata-on/learn_cpp)&nbsp;
+<a href="https://github.com/Arganata-on/learn_cpp"><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://github.com/Arganata-on/learn-python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
