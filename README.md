@@ -25,7 +25,7 @@
 
 <table>
 	<tr>
-    <h2>⚡ Stats ⚡</h2>
+    <h2>⚡ GitHub Statistics ⚡</h2>
 		<td align="left" style="padding=0;width=50%;">
 			<img align="left" style="padding=0;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arganata-on&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true" />
 		</td>
