@@ -74,41 +74,8 @@ These are some statistics from my github account.
 		<td align="center" style="padding=0;width=50%;">
 			<img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true" />
 		</td>
+    <td align="center" style="padding=0;width=50%;">
+			<img align="center" style="padding=0;" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true" />
+		</td>
 	</tr>
 </table>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&show_icons=true" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&show_icons=true" />
-</picture>
