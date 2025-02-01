@@ -17,11 +17,10 @@
 <a href="https://wa.me/6289696898001?text=Bang" ><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a>
 <a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 
+---
+
 <h2 align="left">🚀 Languages-Frameworks-Tools 🚀</h2>
-<br/>
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,css,discord,git,github,html,js,pycharm,py,tensorflow,visualstudio,vscode" />
-</div>
+<img src="https://skillicons.dev/icons?i=cpp,css,discord,git,github,html,js,pycharm,py,tensorflow,visualstudio,vscode" />
 
 ---
 
