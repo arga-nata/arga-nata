@@ -10,6 +10,9 @@
 💬 Motto: **"Code is my art, gaming is my journey, and the late hours ignite my drive!"**
 <br/>
 ⚡ Fun Fact: **C++ is my favorite language**
+⚡ Fun Fact: **C++ is my favorite language**
+⚡ Fun Fact: **C++ is my favorite language**
+⚡ Fun Fact: **C++ is my favorite language**
 
 </td>
     <td>
