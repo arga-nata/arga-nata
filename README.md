@@ -21,15 +21,11 @@
     <a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 </div>
 
-<table align="left">
-  <tr>
-    <td>
-		<a href="https://discord.com/users/1134220267535745065" target="_blank" rel="nofollow">
-			<img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
-		</a>
-    </td>
-  </tr>
-</table>
+<div
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1134220267535745065)](https://discord.com/users/1134220267535745065)
+
+</div>
 
 <hr/>
  
