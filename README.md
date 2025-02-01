@@ -8,6 +8,8 @@
   </tr>
 </table>
 
+<br>
+
 <div align="left">
 
 🌱 I’m currently learning
