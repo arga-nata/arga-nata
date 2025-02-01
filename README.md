@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,css,discord,git,github,html,js,pycharm,py,tensorflow,visualstudio,vscode" />
 </div>
 
-<hr/>
+---
 
 <div align="left">
 <h2 align="left">🤔 Where do i learn ? 🤔</h2>
@@ -45,8 +45,8 @@
 
 <!-- END YOUTUBE-CARDS -->
 </div>
-<br/>
-<hr/>
+
+---
 
 <div align="left">
   <h2>🐍 My Contributions 🐍</h2>
