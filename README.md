@@ -38,7 +38,7 @@
   <table>
   <tr>
     <td align="left" style="padding=0;width=50%;">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true&hide=javascript,html,css,other,markdown" />
+			<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=false&count_private=false" />
 		</td>
     <td align="left" style="padding=0;width=50%;">
 			<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats" />
