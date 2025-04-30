@@ -14,7 +14,6 @@
 <a href="mailto:arganata.on@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/arganata.on/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-<a href="https://wa.me/6289696898001?text=Bang" ><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a>
 <a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 <br/><br/>
 <h2 align="left">🚀 Languages-Frameworks-Tools 🚀</h2>
