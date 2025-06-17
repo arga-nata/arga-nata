@@ -17,7 +17,7 @@
 <a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 <br/><br/>
 <h2 align="left">🚀 Languages-Frameworks-Tools 🚀</h2>
-<img src="https://skillicons.dev/icons?i=cpp,css,git,html,java,mysql,pycharm,py,stackoverflow,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,css,git,html,idea,java,mysql,py,stackoverflow,vscode" />
 <br/><br/>
 <h2>🐍 Snake Eating My Contributions 🐍</h2>
 <img src="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake-dark.svg" />
