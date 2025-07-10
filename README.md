@@ -11,19 +11,21 @@
 - 🎮 When I'm not coding, I'm exploring new worlds through gaming.
 
 <p align="center">
- <a href="mailto:arganata.on@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
- </a>
-<a href="https://discordapp.com/users/1134220267535745065">
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/arganata.on/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/satania.kejedot.54/" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
-</a>
+  <a href="mailto:arganata.on@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/1134220267535745065">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/arganata.on/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/satania.kejedot.54/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Arganata.YouTube">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 ### 💻 **Languages & Frameworks**
