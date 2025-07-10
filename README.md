@@ -11,7 +11,7 @@
 - 🎮 When I'm not coding, I'm exploring new worlds through gaming.
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="5">
     <tr>
       <td align="center">
         <a href="mailto:arganata.on@gmail.com">
