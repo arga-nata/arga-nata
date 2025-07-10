@@ -1,9 +1,10 @@
 <div align="center">
-  <a href="https://discord.com/users/1134220267535745065#gh-dark-mode-only">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=dark&bg=0D1117&borderRadius=8px#gh-dark-mode-only" alt="Lanyard Discord Status"/>
-  </a>
-  <a href="https://discord.com/users/1134220267535745065#gh-light-mode-only">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=light&bg=FFFFFF&borderRadius=8px#gh-light-mode-only" alt="Lanyard Discord Status"/>
+  <a href="https://discord.com/users/1134220267535745065">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=dark&bg=0D1117&borderRadius=8px">
+      <source media="(prefers-color-scheme: light)" srcset="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=light&bg=FFFFFF&borderRadius=8px">
+      <img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=dark&bg=0D1117&borderRadius=8px" alt="Lanyard Discord Status">
+    </picture>
   </a>
 </div>
 
@@ -34,8 +35,11 @@
 ### 💻 **Languages & Frameworks**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,vscode,stackoverflow&theme=dark#gh-dark-mode-only" />
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,vscode,stackoverflow&theme=light#gh-light-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,vscode,stackoverflow&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,vscode,stackoverflow&theme=light">
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,vscode,stackoverflow&theme=dark" alt="Skill Icons">
+  </picture>
 </p>
 
 ### 📟 **System Diagnostics**
@@ -43,17 +47,26 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&count_private=true#gh-dark-mode-only" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=buefy&count_private=true#gh-light-mode-only" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&count_private=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=buefy&count_private=true">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&count_private=true" alt="GitHub Stats">
+      </picture>
     </td>
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight#gh-dark-mode-only" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy#gh-light-mode-only" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight" alt="WakaTime Stats">
+      </picture>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+  </picture>
 </div>
