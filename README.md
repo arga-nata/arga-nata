@@ -1,10 +1,7 @@
 <div align="center">
-  <a href="https://discord.com/users/1134220267535745065#gh-dark-mode-only">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=dark&bg=0D1117&borderRadius=8px#gh-dark-mode-only" alt="Lanyard Discord Status"/>
-  </a>
-  <a href="https://discord.com/users/1134220267535745065#gh-light-mode-only">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=light&bg=FFFFFF&borderRadius=8px#gh-light-mode-only" alt="Lanyard Discord Status"/>
-  </a>
+
+[![Lanyard](https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=dark&bg=1c1c1c&borderRadius=8px)](https://discord.com/users/1134220267535745065)
+
 </div>
 
 ---
