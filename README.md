@@ -21,7 +21,7 @@
 ### 💻 **Languages & Frameworks**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,vscode,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,php,vscode,stackoverflow" />
 </p>
 
 ### 📟 **System Diagnostics**
