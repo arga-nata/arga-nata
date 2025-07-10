@@ -38,11 +38,7 @@
 ### 💻 **Languages & Frameworks**
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,vscode,stackoverflow&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,vscode,stackoverflow&theme=light">
-    <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,vscode,stackoverflow&theme=dark" alt="Skill Icons">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,vscode,stackoverflow" />
 </p>
 
 ---
