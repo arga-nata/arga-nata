@@ -16,19 +16,19 @@
 
 <p align="center">
   <a href="mailto:arganata.on@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discordapp.com/users/1134220267535745065">
-    <img src="https://img.shields.io/badge/Discord-%235865F2?style=flat&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-%235865F2?social=flat&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/arganata.on/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/satania.kejedot.54/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@Arganata.YouTube">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube&logoColor=white" />
   </a>
 </p>
 
