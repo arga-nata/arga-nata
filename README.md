@@ -35,16 +35,7 @@
 ### 💻 **Languages & Frameworks**
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,java,mysql,python,html,css&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,java,mysql,python,html,css&theme=light">
-    <img src="https://skillicons.dev/icons?i=cpp,java,mysql,python,html,css&theme=dark" alt="Languages & Databases">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,vscode,idea,stackoverflow&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,vscode,idea,stackoverflow&theme=light">
-    <img src="https://skillicons.dev/icons?i=git,vscode,idea,stackoverflow&theme=dark" alt="Tools">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,vscode,stackoverflow&theme=dark" />
 </p>
 
 ### 📟 **System Diagnostics**
