@@ -1,12 +1,13 @@
 <div align="center">
-  <a href="https://discord.com/users/1134220267535745065">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=dark&bg=0D1117&borderRadius=8px">
-      <source media="(prefers-color-scheme: light)" srcset="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=light&bg=FFFFFF&borderRadius=8px">
-      <img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=dark&bg=0D1117&borderRadius=8px" alt="Lanyard Discord Status">
-    </picture>
+  <a href="https://discord.com/users/1134220267535745065#gh-dark-mode-only">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=dark&bg=0D1117&borderRadius=8px#gh-dark-mode-only" alt="Lanyard Discord Status"/>
+  </a>
+  <a href="https://discord.com/users/1134220267535745065#gh-light-mode-only">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=light&bg=FFFFFF&borderRadius=8px#gh-light-mode-only" alt="Lanyard Discord Status"/>
   </a>
 </div>
+
+---
 
 ### 🤔 **About Me**
 
@@ -16,27 +17,35 @@
 
 <p align="center">
   <a href="mailto:arganata.on@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discordapp.com/users/1134220267535745065">
-    <img src="https://img.shields.io/badge/Discord-%235865F2?social=flat&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/arganata.on/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/satania.kejedot.54/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@Arganata.YouTube">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
   </a>
 </p>
+
+---
 
 ### 💻 **Languages & Frameworks**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,vscode,stackoverflow&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,vscode,stackoverflow&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,vscode,stackoverflow&theme=light">
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,vscode,stackoverflow&theme=dark" alt="Skill Icons">
+  </picture>
 </p>
+
+---
 
 ### 📟 **System Diagnostics**
 
