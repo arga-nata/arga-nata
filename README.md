@@ -31,7 +31,7 @@
 
 ### 🚀 **Featured Projects**
 
-<table width="100%">
+<table style="border-collapse: collapse;" width="100%>
   <tr>
     <td width="25%" align="center">
       <a href="https://github.com/Arganata-on/website-toko-bouquet">
