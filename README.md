@@ -13,8 +13,6 @@
   </table>
 </div>
 
----
-
 ### 🤔 **About Me**
 
 🌱 I’m currently focused on learning <a href="https://github.com/Arganata-on/learn-cpp"><img src="https://img.shields.io/badge/C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /></a> <a href="https://github.com/Arganata-on/learn-java"><img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" /></a> <a href="https://github.com/Arganata-on/learn-mysql"><img src="https://img.shields.io/badge/mysql-%234479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>.
@@ -30,8 +28,6 @@
 <a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 <a href="https://www.instagram.com/arganata.on/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 </p>
-
----
 
 ### 🚀 **Featured Projects**
 
@@ -67,8 +63,6 @@
   </tr>
 </table>
 
----
-
 ### 💻 **Languages & Frameworks**
 
 <p align="center">
@@ -90,25 +84,25 @@
     </td>
     <td width="50%" align="center">
       <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arganata-on&theme=tokyo-night&hide_border=true&hide_title=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arganata-on&theme=buefy&hide_border=true&hide_title=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arganata-on&theme=tokyo-night&hide_border=true&hide_title=true" alt="Contribution Graph">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arganata-on&theme=tokyo-night&hide_border=true&hide_title=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arganata-on&theme=buefy&hide_border=true&hide_title=true">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arganata-on&theme=tokyo-night&hide_border=true&hide_title=true" alt="Contribution Graph">
 </picture>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&theme=tokyonight&hide_border=true&langs_count=6">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&theme=buefy&hide_border=true&langs_count=6">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&theme=tokyonight&hide_border=true&langs_count=6" alt="WakaTime Stats">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy&hide_border=true&langs_count=6">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="WakaTime Stats">
       </picture>
     </td>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&theme=tokyonight&hide_border=true&count_private=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&theme=buefy&hide_border=true&count_private=true">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Top Languages">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&hide_border=true&count_private=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=buefy&hide_border=true&count_private=true">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Top Languages">
       </picture>
     </td>
   </tr>
@@ -123,8 +117,6 @@
 </picture>
 
 </div>
-
----
 
 ### 🤝 **Our Teams**
 
