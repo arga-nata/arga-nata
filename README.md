@@ -51,15 +51,6 @@
         </picture>
       </a>
     </td>
-    <td width="25%" align="center">
-      <a href="https://github.com/Arganata-on/NAMA_REPO_4">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_4&theme=tokyonight">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_4&theme=buefy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_4&theme=tokyonight" alt="Project 4">
-        </picture>
-      </a>
-    </td>
   </tr>
 </table>
 
