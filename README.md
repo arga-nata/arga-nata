@@ -66,25 +66,33 @@
   <tr>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&count_private=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=buefy&count_private=true">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&count_private=true" alt="GitHub Stats">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true&theme=tokyonight&count_private=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true&theme=buefy&count_private=true">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats Card">
       </picture>
     </td>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight" alt="WakaTime Stats">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&count_private=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=buefy&count_private=true">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&theme=tokyonight&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&theme=buefy&hide_border=true">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&langs_count=6">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy&langs_count=6">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&langs_count=10" alt="WakaTime Stats">
       </picture>
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
-  </picture>
-</div>
