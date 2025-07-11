@@ -1,13 +1,8 @@
 <div align="center">
-  <a href="https://discord.com/users/1134220267535745065#gh-dark-mode-only">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=dark&bg=0D1117&borderRadius=8px#gh-dark-mode-only" alt="Lanyard Discord Status"/>
-  </a>
-  <a href="https://discord.com/users/1134220267535745065#gh-light-mode-only">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=light&bg=FFFFFF&borderRadius=8px#gh-light-mode-only" alt="Lanyard Discord Status"/>
-  </a>
-</div>
 
----
+[![Lanyard](https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=dark&bg=1c1c1c&borderRadius=8px)](https://discord.com/users/1134220267535745065)
+
+</div>
 
 ### 🤔 **About Me**
 
@@ -24,8 +19,6 @@
 <a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 <a href="https://www.instagram.com/arganata.on/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 </p>
-
----
 
 ### 🚀 **Featured Projects**
 
@@ -70,15 +63,11 @@
   </tr>
 </table>
 
----
-
 ### 💻 **Languages & Frameworks**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,php,vscode,stackoverflow" />
 </p>
-
----
 
 ### 📟 **System Diagnostics**
 
