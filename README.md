@@ -21,7 +21,7 @@
 <a href="https://github.com/Arganata-on/learn-java">
 <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" /></a>
 <a href="https://github.com/Arganata-on/learn-mysql">
-<img src="https://img.shields.io/badge/mysql-%234479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>.
+<img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>.
 
 ⚡ My current journey involves expanding my skills into cybersecurity to better understand the digital world.
 
