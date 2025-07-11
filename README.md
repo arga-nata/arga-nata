@@ -4,6 +4,8 @@
 
 </div>
 
+---
+
 ### 🤔 **About Me**
 
 🌱 I’m currently focused on learning <a href="https://github.com/Arganata-on/learn-cpp"><img src="https://img.shields.io/badge/C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /></a> <a href="https://github.com/Arganata-on/learn-java"><img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" /></a> <a href="https://github.com/Arganata-on/Aestra-Personal2"><img src="https://img.shields.io/badge/mysql-%234479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>.
@@ -19,6 +21,8 @@
 <a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 <a href="https://www.instagram.com/arganata.on/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 </p>
+
+---
 
 ### 🚀 **Featured Projects**
 
@@ -54,10 +58,12 @@
   </tr>
 </table>
 
+---
+
 ### 💻 **Languages & Frameworks**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,php,vscode,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,php,html,css,mysql,git,vscode,idea,stackoverflow" />
 </p>
 
 ### 📟 **System Diagnostics**
@@ -73,25 +79,25 @@
     </td>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&count_private=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=buefy&count_private=true">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&theme=tokyonight&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&theme=buefy&hide_border=true">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
       </picture>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&theme=tokyonight&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&theme=buefy&hide_border=true">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&langs_count=6">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy&langs_count=6">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&langs_count=6" alt="WakaTime Stats">
       </picture>
     </td>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&langs_count=6">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy&langs_count=6">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&langs_count=6" alt="WakaTime Stats">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&count_private=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=buefy&count_private=true">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages">
       </picture>
     </td>
   </tr>
