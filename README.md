@@ -28,30 +28,30 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <a href="https://github.com/Arganata-on/website-toko-bouquet">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=tokyonight">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=buefy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=tokyonight" alt="Project learn-mysql">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=tokyonight" alt="Project Website Toko Bouquet">
         </picture>
       </a>
     </td>
     <td width="25%" align="center">
-      <a href="https://github.com/Arganata-on/NAMA_REPO_2">
+      <a href="https://github.com/Arganata-on/learn-php">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_2&theme=tokyonight">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_2&theme=buefy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_2&theme=tokyonight" alt="Project 2">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=learn-php&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=learn-php&theme=buefy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_2&theme=tokyonight" alt="Project Learn PHP">
         </picture>
       </a>
     </td>
     <td width="25%" align="center">
-      <a href="https://github.com/Arganata-on/NAMA_REPO_3">
+      <a href="https://github.com/Arganata-on/learn-mysql">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_3&theme=tokyonight">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_3&theme=buefy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_3&theme=tokyonight" alt="Project 3">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=learn-mysql&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=learn-mysql&theme=buefy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=learn-mysql&theme=tokyonight" alt="Project Learn MySQL">
         </picture>
       </a>
     </td>
@@ -65,6 +65,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,php,html,css,mysql,git,vscode,idea,stackoverflow" />
 </p>
+
+---
 
 ### 📟 **System Diagnostics**
 
