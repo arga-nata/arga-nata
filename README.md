@@ -17,7 +17,7 @@
 
 ### 🤔 **About Me**
 
-🌱 I’m currently focused on learning <a href="https://github.com/Arganata-on/learn-cpp"><img src="https://img.shields.io/badge/C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /></a> <a href="https://github.com/Arganata-on/learn-java"><img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" /></a> <a href="https://github.com/Arganata-on/Aestra-Personal2"><img src="https://img.shields.io/badge/mysql-%234479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>.
+🌱 I’m currently focused on learning <a href="https://github.com/Arganata-on/learn-cpp"><img src="https://img.shields.io/badge/C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /></a> <a href="https://github.com/Arganata-on/learn-java"><img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" /></a> <a href="https://github.com/Arganata-on/learn-mysql"><img src="https://img.shields.io/badge/mysql-%234479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>.
 
 ⚡ My current journey involves expanding my skills into cybersecurity to better understand the digital world.
 
@@ -40,27 +40,27 @@
     <td width="25%" align="center">
       <a href="https://github.com/Arganata-on/website-toko-bouquet">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=tokyonight">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=buefy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=tokyonight" alt="Project Website Toko Bouquet">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=website-toko-bouquet&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=website-toko-bouquet&theme=buefy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=website-toko-bouquet&theme=tokyonight" alt="Project Website Toko Bouquet">
         </picture>
       </a>
     </td>
     <td width="25%" align="center">
       <a href="https://github.com/Arganata-on/learn-php">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=learn-php&theme=tokyonight">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=learn-php&theme=buefy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_2&theme=tokyonight" alt="Project Learn PHP">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=learn-php&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=learn-php&theme=buefy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=NAMA_REPO_2&theme=tokyonight" alt="Project Learn PHP">
         </picture>
       </a>
     </td>
     <td width="25%" align="center">
       <a href="https://github.com/Arganata-on/learn-mysql">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=learn-mysql&theme=tokyonight">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=learn-mysql&theme=buefy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=learn-mysql&theme=tokyonight" alt="Project Learn MySQL">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=learn-mysql&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=learn-mysql&theme=buefy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=learn-mysql&theme=tokyonight" alt="Project Learn MySQL">
         </picture>
       </a>
     </td>
@@ -90,10 +90,10 @@
     </td>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&layout=compact&theme=tokyonight&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&layout=compact&theme=buefy&hide_border=true">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
-      </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arganata-on&theme=tokyo-night&hide_border=true&hide_title=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arganata-on&theme=buefy&hide_border=true&hide_title=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arganata-on&theme=tokyo-night&hide_border=true&hide_title=true" alt="Contribution Graph">
+</picture>
     </td>
   </tr>
   <tr>
@@ -128,7 +128,7 @@
 
 ### 🤝 **Our Teams**
 
-<table width="50%" border="0" cellspacing="15" cellpadding="0">
+<table width="100%" border="0" cellspacing="15" cellpadding="0">
   <tr>
     <td width="50%" align="center" valign="top">
       <table border="0" cellspacing="0" cellpadding="5">
