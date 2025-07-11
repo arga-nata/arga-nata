@@ -31,7 +31,7 @@
 
 ### 🚀 **Featured Projects**
 
-<table style="border-collapse: collapse;" width="100%>
+<table style="border-collapse: collapse;" width="100%">
   <tr>
     <td width="25%" align="center">
       <a href="https://github.com/Arganata-on/website-toko-bouquet">
@@ -47,7 +47,7 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=learn-php&theme=tokyonight">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=learn-php&theme=buefy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=NAMA_REPO_2&theme=tokyonight" alt="Project Learn PHP">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=learn-php&theme=tokyonight" alt="Project Learn PHP">
         </picture>
       </a>
     </td>
