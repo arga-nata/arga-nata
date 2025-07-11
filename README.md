@@ -31,7 +31,7 @@
 
 ### 🚀 **Featured Projects**
 
-<table style="border-collapse: collapse;" width="100%">
+<table border="0" width="100%">
   <tr>
     <td width="25%" align="center">
       <a href="https://github.com/Arganata-on/website-toko-bouquet">
@@ -68,8 +68,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,java,php,html,css,mysql,git,vscode,idea,stackoverflow" />
 </p>
-
----
 
 ### 📟 **System Diagnostics**
 
