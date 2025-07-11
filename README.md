@@ -24,7 +24,7 @@
 
 <table width="100%">
   <tr>
-    <td width="25%" align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/Arganata-on/website-toko-bouquet">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=tokyonight">
