@@ -130,7 +130,7 @@
   <tr>
     <td width="20%" align="center" valign="top">
       <a href="https://github.com/Arganata-on">
-        <svg width="80" height="80"><defs><clipPath id="circleClip"><circle cx="40" cy="40" r="40"/></clipPath></defs><image href="https://github.com/Arganata-on.png" width="80" height="80" clip-path="url(#circleClip)"/></svg>
+        <img src="https://github.com/Arganata-on.png?size=80" width="80" height="80" alt="Arganata-on's Avatar"/>
       </a>
       <br>
       <a href="https://github.com/Arganata-on/website-toko-bouquet">
@@ -143,7 +143,7 @@
     </td>
     <td width="20%" align="center" valign="top">
       <a href="https://github.com/EkoRamadn">
-        <svg width="80" height="80"><defs><clipPath id="circleClip"><circle cx="40" cy="40" r="40"/></clipPath></defs><image href="https://github.com/EkoRamadn.png" width="80" height="80" clip-path="url(#circleClip)"/></svg>
+        <img src="https://github.com/EkoRamadn.png?size=80" width="80" height="80" alt="EkoRamadn's Avatar"/>
       </a>
       <br>
       <a href="https://github.com/EkoRamadn/asd_backend">
@@ -156,7 +156,7 @@
     </td>
     <td width="20%" align="center" valign="top">
       <a href="https://github.com/AhmadYusronF">
-        <svg width="80" height="80"><defs><clipPath id="circleClip"><circle cx="40" cy="40" r="40"/></clipPath></defs><image href="https://github.com/AhmadYusronF.png" width="80" height="80" clip-path="url(#circleClip)"/></svg>
+        <img src="https://github.com/AhmadYusronF.png?size=80" width="80" height="80" alt="AhmadYusronF's Avatar"/>
       </a>
       <br>
       <a href="https://github.com/AhmadYusronF/ManagementProject">
@@ -169,10 +169,10 @@
     </td>
     <td width="20%" align="center" valign="top">
       <a href="https://github.com/4estra">
-        <svg width="80" height="80"><defs><clipPath id="circleClip"><circle cx="40" cy="40" r="40"/></clipPath></defs><image href="https://github.com/4estra.png" width="80" height="80" clip-path="url(#circleClip)"/></svg>
+        <img src="https://github.com/4estra.png?size=80" width="80" height="80" alt="4estra's Avatar"/>
       </a>
       <br>
-      <a href="https://github.com/4estra/Aestra-Personal2/tree/iso">
+      <a href="https://github.com/4estra/Aestra-Personal2">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=4estra&repo=Aestra-Personal2&theme=tokyonight">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=4estra&repo=Aestra-Personal2&theme=buefy">
@@ -182,7 +182,7 @@
     </td>
     <td width="20%" align="center" valign="top">
       <a href="https://github.com/FirmanSyah2078">
-        <svg width="80" height="80"><defs><clipPath id="circleClip"><circle cx="40" cy="40" r="40"/></clipPath></defs><image href="https://github.com/FirmanSyah2078.png" width="80" height="80" clip-path="url(#circleClip)"/></svg>
+        <img src="https://github.com/FirmanSyah2078.png?size=80" width="80" height="80" alt="FirmanSyah2078's Avatar"/>
       </a>
       <br>
       <a href="https://github.com/FirmanSyah2078/uas-kelompok-06">
