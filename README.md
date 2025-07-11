@@ -1,28 +1,88 @@
 <div align="center">
-
-[![Lanyard](https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=dark&bg=1c1c1c&borderRadius=8px)](https://discord.com/users/1134220267535745065)
-
+  <a href="https://discord.com/users/1134220267535745065#gh-dark-mode-only">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=dark&bg=0D1117&borderRadius=8px#gh-dark-mode-only" alt="Lanyard Discord Status"/>
+  </a>
+  <a href="https://discord.com/users/1134220267535745065#gh-light-mode-only">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=light&bg=FFFFFF&borderRadius=8px#gh-light-mode-only" alt="Lanyard Discord Status"/>
+  </a>
 </div>
+
+---
 
 ### 🤔 **About Me**
 
-- 🌱 I’m currently focused on learning <a href="https://github.com/Arganata-on/learn-cpp"><img src="https://img.shields.io/badge/C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /></a> <a href="https://github.com/Arganata-on/learn-java"><img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" /></a> <a href="https://github.com/Arganata-on/learn-mysql"><img src="https://img.shields.io/badge/mysql-%234479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>.
-- ⚡ My current journey involves expanding my skills into cybersecurity to better understand the digital world.
-- 🎮 When I'm not coding, I'm exploring new worlds through gaming.
+🌱 I’m currently focused on learning <a href="https://github.com/Arganata-on/learn-cpp"><img src="https://img.shields.io/badge/C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /></a> <a href="https://github.com/Arganata-on/learn-java"><img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" /></a> <a href="https://github.com/Arganata-on/Aestra-Personal2"><img src="https://img.shields.io/badge/mysql-%234479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>.
 
-<div align="center">
+⚡ My current journey involves expanding my skills into cybersecurity to better understand the digital world.
+
+🎮 When I'm not coding, I'm exploring new worlds through gaming.
+
+<p align="center">
 <a href="mailto:arganata.on@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
 <a href="https://discordapp.com/users/1134220267535745065" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" /></a>
 <a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 <a href="https://www.instagram.com/arganata.on/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-</div>
+</p>
+
+---
+
+### 🚀 **Featured Projects**
+
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/Arganata-on/Aestra-Personal2">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=Aestra-Personal2&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=Aestra-Personal2&theme=buefy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=Aestra-Personal2&theme=tokyonight" alt="Project learn-mysql">
+        </picture>
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/Arganata-on/NAMA_REPO_2">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_2&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_2&theme=buefy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_2&theme=tokyonight" alt="Project 2">
+        </picture>
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/Arganata-on/NAMA_REPO_3">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_3&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_3&theme=buefy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_3&theme=tokyonight" alt="Project 3">
+        </picture>
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/Arganata-on/NAMA_REPO_4">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_4&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_4&theme=buefy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=NAMA_REPO_4&theme=tokyonight" alt="Project 4">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 💻 **Languages & Frameworks**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,php,vscode,stackoverflow" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,php,vscode,stackoverflow&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,php,vscode,stackoverflow&theme=light">
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,mysql,git,idea,php,vscode,stackoverflow&theme=dark" alt="Skill Icons">
+  </picture>
 </p>
+
+---
 
 ### 📟 **System Diagnostics**
 
