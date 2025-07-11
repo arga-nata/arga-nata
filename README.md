@@ -101,14 +101,14 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy&hide_border=true&langs_count=6">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="WakaTime Stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117" alt="WakaTime Stats">
       </picture>
     </td>
     <td width="50%" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&hide_border=true&count_private=true">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=buefy&hide_border=true&count_private=true">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Top Languages">
       </picture>
     </td>
   </tr>
@@ -133,7 +133,7 @@
     <td width="50%" align="center" valign="top">
       <table border="0" cellspacing="0" cellpadding="5">
         <tr>
-          <td valign="middle"><a href="https://github.com/Arganata-on"><img src="https://github.com/Arganata-on.png?size=80" width="80" alt="Avatar"/></a></td>
+          <td valign="middle"><a href="https://github.com/Arganata-on"><img src="https://github.com/Arganata-on.png?size=60" width="60" alt="Avatar"/></a></td>
           <td valign="middle"><a href="https://github.com/Arganata-on/website-toko-bouquet"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=tokyonight"/><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=buefy"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=tokyonight"/></picture></a></td>
         </tr>
       </table>
@@ -141,7 +141,7 @@
     <td width="50%" align="center" valign="top">
       <table border="0" cellspacing="0" cellpadding="5">
         <tr>
-          <td valign="middle"><a href="https://github.com/EkoRamadn"><img src="https://github.com/EkoRamadn.png?size=80" width="80" alt="Avatar"/></a></td>
+          <td valign="middle"><a href="https://github.com/EkoRamadn"><img src="https://github.com/EkoRamadn.png?size=60" width="60" alt="Avatar"/></a></td>
           <td valign="middle"><a href="https://github.com/EkoRamadn/asd_backend"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=EkoRamadn&repo=asd_backend&theme=tokyonight"/><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=EkoRamadn&repo=asd_backend&theme=buefy"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=EkoRamadn&repo=asd_backend&theme=tokyonight"/></picture></a></td>
         </tr>
       </table>
@@ -151,7 +151,7 @@
     <td width="50%" align="center" valign="top">
       <table border="0" cellspacing="0" cellpadding="5">
         <tr>
-          <td valign="middle"><a href="https://github.com/AhmadYusronF"><img src="https://github.com/AhmadYusronF.png?size=80" width="80" alt="Avatar"/></a></td>
+          <td valign="middle"><a href="https://github.com/AhmadYusronF"><img src="https://github.com/AhmadYusronF.png?size=60" width="60" alt="Avatar"/></a></td>
           <td valign="middle"><a href="https://github.com/AhmadYusronF/ManagementProject"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AhmadYusronF&repo=ManagementProject&theme=tokyonight"/><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AhmadYusronF&repo=ManagementProject&theme=buefy"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadYusronF&repo=ManagementProject&theme=tokyonight"/></picture></a></td>
         </tr>
       </table>
@@ -159,17 +159,17 @@
     <td width="50%" align="center" valign="top">
       <table border="0" cellspacing="0" cellpadding="5">
         <tr>
-          <td valign="middle"><a href="https://github.com/4estra"><img src="https://github.com/4estra.png?size=80" width="80" alt="Avatar"/></a></td>
+          <td valign="middle"><a href="https://github.com/4estra"><img src="https://github.com/4estra.png?size=60" width="60" alt="Avatar"/></a></td>
           <td valign="middle"><a href="https://github.com/4estra/Aestra-Personal2"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=4estra&repo=Aestra-Personal2&theme=tokyonight"/><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=4estra&repo=Aestra-Personal2&theme=buefy"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=4estra&repo=Aestra-Personal2&theme=tokyonight"/></picture></a></td>
         </tr>
       </table>
     </td>
   </tr>
   <tr>
-    <td width="100%" align="center" valign="top" colspan="2">
+    <td align="center" colspan="2">
       <table border="0" cellspacing="0" cellpadding="5">
         <tr>
-          <td valign="middle"><a href="https://github.com/FirmanSyah2078"><img src="https://github.com/FirmanSyah2078.png?size=80" width="80" alt="Avatar"/></a></td>
+          <td valign="middle"><a href="https://github.com/FirmanSyah2078"><img src="https://github.com/FirmanSyah2078.png?size=60" width="60" alt="Avatar"/></a></td>
           <td valign="middle"><a href="https://github.com/FirmanSyah2078/uas-kelompok-06"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=FirmanSyah2078&repo=uas-kelompok-06&theme=tokyonight"/><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=FirmanSyah2078&repo=uas-kelompok-06&theme=buefy"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=FirmanSyah2078&repo=uas-kelompok-06&theme=tokyonight"/></picture></a></td>
         </tr>
       </table>
