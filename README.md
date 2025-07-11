@@ -120,24 +120,34 @@
 
 ### 👋 **Meet Our Teams**
 
-<p>
-  <a href="https://github.com/Arganata-on">
-    <img src="https://github.com/Arganata-on.png?size=80" width="80"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/EkoRamadn">
-    <img src="https://github.com/EkoRamadn.png?size=80" width="80"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/AhmadYusronF">
-    <img src="https://github.com/AhmadYusronF.png?size=80" width="80"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/4estra">
-    <img src="https://github.com/4estra.png?size=80" width="80"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/FirmanSyah2078">
-    <img src="https://github.com/FirmanSyah2078.png?size=80" width="80"/>
-  </a>
-</p>
+<div align="left">
+  <table border="0" cellspacing="10" cellpadding="0">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Arganata-on" title="Handika Rado Arganata">
+          <img src="https://github.com/Arganata-on.png?size=80" width="80" alt="Arganata-on's Avatar"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/EkoRamadn" title="Eko Ramadhan">
+          <img src="https://github.com/EkoRamadn.png?size=80" width="80" alt="EkoRamadn's Avatar"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/AhmadYusronF" title="Ahmad Yusron F">
+          <img src="https://github.com/AhmadYusronF.png?size=80" width="80" alt="AhmadYusronF's Avatar"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/4estra" title="Putri Perwitasari (4estra)">
+          <img src="https://github.com/4estra.png?size=80" width="80" alt="4estra's Avatar"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/FirmanSyah2078" title="Firman Syah">
+          <img src="https://github.com/FirmanSyah2078.png?size=80" width="80" alt="FirmanSyah2078's Avatar"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
