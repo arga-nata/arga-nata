@@ -21,7 +21,7 @@
 
 🎮 When I'm not coding, I'm exploring new worlds through gaming.
 
-<p align="center">
+<p>
 <a href="mailto:arganata.on@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
 <a href="https://discordapp.com/users/1134220267535745065" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" /></a>
@@ -65,7 +65,7 @@
 
 ### 💻 **Languages & Frameworks**
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=cpp,java,php,html,css,mysql,git,vscode,idea,stackoverflow" />
 </p>
 
