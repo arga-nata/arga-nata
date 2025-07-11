@@ -1,8 +1,15 @@
-<div align="center">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center">
 
 [![Lanyard](https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=dark&bg=1c1c1c&borderRadius=8px)](https://discord.com/users/1134220267535745065)
 
-</div>
+  </td>
+    <td width="50%" align="center">
+      <img src="https://octodex.github.com/images/securitocat.png" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -63,7 +70,7 @@
 ### 💻 **Languages & Frameworks**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,php,html,css,mysql,git,vscode,idea,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,php,html,css,mysql,git,vscode,idea,stackoverflow" />
 </p>
 
 ---
@@ -74,9 +81,9 @@
   <tr>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true&theme=tokyonight&count_private=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true&theme=buefy&count_private=true">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats Card">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true&theme=buefy&hide_border=true&count_private=true">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arganata-on&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats Card">
       </picture>
     </td>
     <td width="50%" align="center">
@@ -90,17 +97,101 @@
   <tr>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&langs_count=6">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy&langs_count=6">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&langs_count=6" alt="WakaTime Stats">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy&hide_border=true&langs_count=6">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="WakaTime Stats">
       </picture>
     </td>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&count_private=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=buefy&count_private=true">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&hide_border=true&count_private=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=buefy&hide_border=true&count_private=true">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages">
       </picture>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+</picture>
+
+</div>
+
+---
+
+### 🤝 **Our Teams**
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="20%" align="center" valign="top">
+      <a href="https://github.com/Arganata-on">
+        <svg width="80" height="80"><defs><clipPath id="circleClip"><circle cx="40" cy="40" r="40"/></clipPath></defs><image href="https://github.com/Arganata-on.png" width="80" height="80" clip-path="url(#circleClip)"/></svg>
+      </a>
+      <br>
+      <a href="https://github.com/Arganata-on/website-toko-bouquet">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=buefy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=tokyonight">
+        </picture>
+      </a>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <a href="https://github.com/EkoRamadn">
+        <svg width="80" height="80"><defs><clipPath id="circleClip"><circle cx="40" cy="40" r="40"/></clipPath></defs><image href="https://github.com/EkoRamadn.png" width="80" height="80" clip-path="url(#circleClip)"/></svg>
+      </a>
+      <br>
+      <a href="https://github.com/EkoRamadn/asd_backend">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=EkoRamadn&repo=asd_backend&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=EkoRamadn&repo=asd_backend&theme=buefy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EkoRamadn&repo=asd_backend&theme=tokyonight">
+        </picture>
+      </a>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <a href="https://github.com/AhmadYusronF">
+        <svg width="80" height="80"><defs><clipPath id="circleClip"><circle cx="40" cy="40" r="40"/></clipPath></defs><image href="https://github.com/AhmadYusronF.png" width="80" height="80" clip-path="url(#circleClip)"/></svg>
+      </a>
+      <br>
+      <a href="https://github.com/AhmadYusronF/ManagementProject">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AhmadYusronF&repo=ManagementProject&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AhmadYusronF&repo=ManagementProject&theme=buefy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadYusronF&repo=ManagementProject&theme=tokyonight">
+        </picture>
+      </a>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <a href="https://github.com/4estra">
+        <svg width="80" height="80"><defs><clipPath id="circleClip"><circle cx="40" cy="40" r="40"/></clipPath></defs><image href="https://github.com/4estra.png" width="80" height="80" clip-path="url(#circleClip)"/></svg>
+      </a>
+      <br>
+      <a href="https://github.com/4estra/Aestra-Personal2/tree/iso">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=4estra&repo=Aestra-Personal2&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=4estra&repo=Aestra-Personal2&theme=buefy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=4estra&repo=Aestra-Personal2&theme=tokyonight">
+        </picture>
+      </a>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <a href="https://github.com/FirmanSyah2078">
+        <svg width="80" height="80"><defs><clipPath id="circleClip"><circle cx="40" cy="40" r="40"/></clipPath></defs><image href="https://github.com/FirmanSyah2078.png" width="80" height="80" clip-path="url(#circleClip)"/></svg>
+      </a>
+      <br>
+      <a href="https://github.com/FirmanSyah2078/uas-kelompok-06">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=FirmanSyah2078&repo=uas-kelompok-06&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=FirmanSyah2078&repo=uas-kelompok-06&theme=buefy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=FirmanSyah2078&repo=uas-kelompok-06&theme=tokyonight">
+        </picture>
+      </a>
     </td>
   </tr>
 </table>
