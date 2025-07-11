@@ -25,11 +25,11 @@
 <table width="100%">
   <tr>
     <td width="25%" align="center">
-      <a href="https://github.com/Arganata-on/Aestra-Personal2">
+      <a href="https://github.com/Arganata-on/website-toko-bouquet">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=Aestra-Personal2&theme=tokyonight">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=Aestra-Personal2&theme=buefy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=Aestra-Personal2&theme=tokyonight" alt="Project learn-mysql">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=buefy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&repo=website-toko-bouquet&theme=tokyonight" alt="Project learn-mysql">
         </picture>
       </a>
     </td>
