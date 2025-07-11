@@ -91,7 +91,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&langs_count=6">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy&langs_count=6">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&langs_count=10" alt="WakaTime Stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&langs_count=6" alt="WakaTime Stats">
       </picture>
     </td>
   </tr>
