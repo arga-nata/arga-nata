@@ -1,5 +1,5 @@
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table>
     <tr>
       <td align="center" valign="middle">
 
@@ -15,7 +15,16 @@
 
 ### 🤔 **About Me**
 
-🌱 I’m currently focused on learning <a href="https://github.com/Arganata-on/learn-cpp"><img src="https://img.shields.io/badge/C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /></a> <a href="https://github.com/Arganata-on/learn-java"><img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" /></a> <a href="https://github.com/Arganata-on/learn-mysql"><img src="https://img.shields.io/badge/mysql-%234479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>.
+🌱 I’m currently focused on learning
+<a href="https://github.com/Arganata-on/learn-cpp">
+<img src="https://img.shields.io/badge/C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+</a>
+<a href="https://github.com/Arganata-on/learn-java">
+<img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+</a>
+<a href="https://github.com/Arganata-on/learn-mysql">
+<img src="https://img.shields.io/badge/mysql-%234479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+</a>.
 
 ⚡ My current journey involves expanding my skills into cybersecurity to better understand the digital world.
 
@@ -25,13 +34,13 @@
 <a href="mailto:arganata.on@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
 <a href="https://discordapp.com/users/1134220267535745065" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" /></a>
-<a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+<a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" /></a>
 <a href="https://www.instagram.com/arganata.on/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 </p>
 
 ### 🚀 **Featured Projects**
 
-<table border="0" width="100%">
+<table width="100%">
   <tr>
     <td width="25%" align="center">
       <a href="https://github.com/Arganata-on/website-toko-bouquet">
@@ -119,33 +128,18 @@
 ### 👋 **Meet Our Teams**
 
 <div align="left">
-  <table border="0" cellspacing="10" cellpadding="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Arganata-on" title="Handika Rado Arganata">
-          <img src="https://github.com/Arganata-on.png?size=80" width="80" alt="Arganata-on's Avatar"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EkoRamadn" title="Eko Ramadhan">
-          <img src="https://github.com/EkoRamadn.png?size=80" width="80" alt="EkoRamadn's Avatar"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/AhmadYusronF" title="Ahmad Yusron F">
-          <img src="https://github.com/AhmadYusronF.png?size=80" width="80" alt="AhmadYusronF's Avatar"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/4estra" title="Putri Perwitasari (4estra)">
-          <img src="https://github.com/4estra.png?size=80" width="80" alt="4estra's Avatar"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/FirmanSyah2078" title="Firman Syah">
-          <img src="https://github.com/FirmanSyah2078.png?size=80" width="80" alt="FirmanSyah2078's Avatar"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+  <a href="https://github.com/Arganata-on">
+    <img src="https://github.com/Arganata-on.png?size=80" width="80"/>
+  </a>
+  <a href="https://github.com/EkoRamadn">
+    <img src="https://github.com/EkoRamadn.png?size=80" width="80"/>
+  </a>
+  <a href="https://github.com/AhmadYusronF">
+    <img src="https://github.com/AhmadYusronF.png?size=80" width="80"/>
+  </a>
+  <a href="https://github.com/4estra">
+    <img src="https://github.com/4estra.png?size=80" width="80"/>
+  </a>
+  <a href="https://github.com/FirmanSyah2078">
+    <img src="https://github.com/FirmanSyah2078.png?size=80" width="80"/>
+  </a>
