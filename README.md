@@ -121,17 +121,3 @@
 </picture>
 
 </div>
-
-### 👋 **Meet Our Teams**
-
-<div align="left">
-  <a href="https://github.com/Arganata-on">
-    <img src="https://github.com/Arganata-on.png?size=80" width="80"/></a>
-  <a href="https://github.com/EkoRamadn">
-    <img src="https://github.com/EkoRamadn.png?size=80" width="80"/></a>
-  <a href="https://github.com/AhmadYusronF">
-    <img src="https://github.com/AhmadYusronF.png?size=80" width="80"/></a>
-  <a href="https://github.com/4estra">
-    <img src="https://github.com/4estra.png?size=80" width="80"/></a>
-  <a href="https://github.com/FirmanSyah2078">
-    <img src="https://github.com/FirmanSyah2078.png?size=80" width="80"/></a>
