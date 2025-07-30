@@ -16,8 +16,8 @@
 ### 🤔 **About Me**
 
 🌱 I’m currently focused on learning
-<a href="https://github.com/Arganata-on/learn-cpp">
-<img src="https://img.shields.io/badge/C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
+<a href="https://github.com/Arganata-on/learn-php">
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" /></a>
 <a href="https://github.com/Arganata-on/learn-java">
 <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" /></a>
 <a href="https://github.com/Arganata-on/learn-mysql">
