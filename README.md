@@ -16,12 +16,12 @@
 ### 🤔 **About Me**
 
 🌱 I’m currently focused on learning
-<a href="https://github.com/Arganata-on/learn-cpp">
-<img src="https://img.shields.io/badge/C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
+<a href="https://github.com/Arganata-on/learn-php">
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" /></a>
 <a href="https://github.com/Arganata-on/learn-java">
 <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" /></a>
 <a href="https://github.com/Arganata-on/learn-mysql">
-<img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>.
+<img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>
 
 ⚡ My current journey involves expanding my skills into cybersecurity to better understand the digital world.
 
@@ -32,7 +32,6 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
 <a href="https://discordapp.com/users/1134220267535745065" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" /></a>
 <a href="https://www.youtube.com/@Arganata.YouTube" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" /></a>
-<a href="https://www.instagram.com/arganata.on/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 </p>
 
 ### 🚀 **Featured Projects**
