@@ -3,7 +3,7 @@
     <tr>
       <td align="center" valign="middle">
 
-[![Lanyard](https://lanyard-profile-readme.vercel.app/api/1134220267535745065?theme=dark&bg=1c1c1c&borderRadius=8px)](https://discord.com/users/1134220267535745065)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1134220267535745065?showDisplayName=true)](https://discord.com/users/1134220267535745065)
 
 </td>
       <td align="center" valign="middle">
