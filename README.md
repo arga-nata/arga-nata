@@ -3,7 +3,7 @@
     <tr>
       <td align="center" valign="middle">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1134220267535745065?showDisplayName=true)](https://discord.com/users/1134220267535745065)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1134220267535745065)](https://discord.com/users/1134220267535745065)
 
 </td>
       <td align="center" valign="middle">
