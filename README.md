@@ -41,9 +41,7 @@
     <td width="25%" align="center">
       <a href="https://github.com/Arganata-on/website-toko-bouquet">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=website-toko-bouquet&theme=tokyonight">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=website-toko-bouquet&theme=buefy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=website-toko-bouquet&theme=tokyonight" alt="Project Website Toko Bouquet">
+          <img src="https://raw.githubusercontent.com/Arganata-on/website-toko-bouquet/main/thumbnail.png" alt="Project Website Toko Bouquet">
         </picture>
       </a>
     </td>
