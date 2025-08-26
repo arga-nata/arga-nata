@@ -48,18 +48,14 @@
     <td width="25%" align="center">
       <a href="https://github.com/Arganata-on/learn-php">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=learn-php&theme=tokyonight">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=learn-php&theme=buefy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=learn-php&theme=tokyonight" alt="Project Learn PHP">
+          <img src="https://img.youtube.com/vi/zZ6vybT1HQs/maxresdefault.jpg" alt="Project Learn PHP">
         </picture>
       </a>
     </td>
     <td width="25%" align="center">
       <a href="https://github.com/Arganata-on/learn-mysql">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=learn-mysql&theme=tokyonight">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=learn-mysql&theme=buefy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arganata-on&layout=compact&hide_border=true&repo=learn-mysql&theme=tokyonight" alt="Project Learn MySQL">
+          <img src="https://img.youtube.com/vi/5OdVJbNCSso/maxresdefault.jpg" alt="Project Learn MySQL">
         </picture>
       </a>
     </td>
