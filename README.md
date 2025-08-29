@@ -1,12 +1,12 @@
-<table width="100%">
-<tr> 
-<td width="50%" align="center">
+<div align="center">
+<a href="https://discord.com/users/1134220267535745065"><img src="https://lanyard.cnrad.dev/api/1134220267535745065?theme=dark" /></a>
+</div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1134220267535745065)](https://discord.com/users/1134220267535745065)
+### 💻 **Languages & Frameworks**
 
-</td>
-</tr>
-</table>
+<div align="center">
+<p><img src="https://skillicons.dev/icons?i=cpp,java,php,html,css,mysql,git,vscode,idea,stackoverflow" /></p>
+</div>
 
 ### 🦉 **GitHub Stats**
 
@@ -36,16 +36,6 @@
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=buefy&hide_border=true&count_private=true">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Top Languages">
 </picture>
-</td>
-</tr>
-</table>
-
-### 💻 **Languages & Frameworks**
-
-<table width="100%">
-<tr> 
-<td width="50%" align="center">
-<p><img src="https://skillicons.dev/icons?i=cpp,java,php,html,css,mysql,git,vscode,idea,stackoverflow" /></p>
 </td>
 </tr>
 </table>
