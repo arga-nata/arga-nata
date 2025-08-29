@@ -1,16 +1,7 @@
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="middle">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1134220267535745065)](https://discord.com/users/1134220267535745065)
 
-</td>
-      <td align="center" valign="middle">
-        <img src="https://images5.alphacoders.com/132/thumb-1920-1328230.png" width="350"/>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ### 🤔 **About Me**
@@ -105,12 +96,9 @@
   </tr>
 </table>
 
-<div align="center">
 <picture>
 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake.svg">
 <img src="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </picture>
-
-</div>
