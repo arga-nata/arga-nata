@@ -1,8 +1,12 @@
-<div align="center">
+<table width="100%">
+<tr> 
+<td width="50%" align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1134220267535745065)](https://discord.com/users/1134220267535745065)
 
-</div>
+</td>
+</tr>
+</table>
 
 ### 🦉 **GitHub Stats**
 
@@ -11,7 +15,7 @@
 <td width="50%" align="center">
 <picture decoding="async" loading="lazy">
 <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Arganata-on&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=false&background=radial-gradient%28circle+at+50%25+50%25%2C+%233461da+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF">
-<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<Arganata-on>&theme=summer">
+<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Arganata-on&theme=summer">
 </picture>
 </td>
 </tr>
