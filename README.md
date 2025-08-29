@@ -4,7 +4,7 @@
 
 </div>
 
-### ⚡ **Stats**
+### 🦉 **GitHub Stats**
 
 <table width="100%">
 <tr> 
