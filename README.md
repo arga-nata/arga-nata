@@ -1,4 +1,7 @@
 <div align="center">
+</div>
+
+<div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1134220267535745065)](https://discord.com/users/1134220267535745065)
 
@@ -96,9 +99,12 @@
   </tr>
 </table>
 
+<div align="center">
 <picture>
 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake.svg">
 <img src="https://raw.githubusercontent.com/Arganata-on/Arganata-on/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </picture>
+
+</div>
