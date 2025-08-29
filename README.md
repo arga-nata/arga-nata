@@ -31,14 +31,14 @@
 
 <table width="100%">
 <tr> 
-<td width="70%" align="center">
+<td width="60%" align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy&hide_border=true&langs_count=6">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=normal&theme=tokyonight&hide_border=true&langs_count=6" alt="WakaTime Stats">
 </picture>
 </td>
-<td width="30%" align="center">
+<td width="40%" align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=12">
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=buefy&hide_border=true&count_private=true&langs_count=12">
