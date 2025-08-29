@@ -14,13 +14,13 @@
 <tr> 
 <td>
  <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arganata-on&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Arganata-on&layout=compact&show_icons=true&theme=buefy&hide_border=true&count_private=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arganata-on&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats Card">
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arganata-on&layout=normal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Arganata-on&layout=normal&show_icons=true&theme=buefy&hide_border=true&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arganata-on&layout=normal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats Card">
 </picture>
 </td>
 <td width="50%" align="center">
- <picture>
+<picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&theme=tokyonight&hide_border=true">
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&theme=buefy&hide_border=true">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
@@ -33,16 +33,16 @@
 <tr> 
 <td width="50%" align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy&hide_border=true&langs_count=6">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="WakaTime Stats">
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=normal&theme=tokyonight&hide_border=true&langs_count=6">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=normal&theme=buefy&hide_border=true&langs_count=6">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=normal&theme=tokyonight&hide_border=true&langs_count=6" alt="WakaTime Stats">
 </picture>
 </td>
 <td width="50%" align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&hide_border=true&count_private=true">
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=buefy&hide_border=true&count_private=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Top Languages">
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=normal&theme=tokyonight&hide_border=true&count_private=true">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=normal&theme=buefy&hide_border=true&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arganata-on&layout=normal&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Top Languages">
 </picture>
 </td>
 </tr>
