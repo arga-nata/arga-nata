@@ -12,10 +12,18 @@
 
 <table width="100%">
 <tr> 
+<td>
+ <picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arganata-on&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Arganata-on&layout=compact&show_icons=true&theme=buefy&hide_border=true&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arganata-on&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats Card">
+</picture>
+</td>
 <td width="50%" align="center">
-<picture decoding="async" loading="lazy">
-<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Arganata-on&include_all_commits=true&pixelate_avatar=false&background=radial-gradient%28circle+at+50%25+50%25%2C+%233461da+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF">
-<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Arganata-on&theme=summer">
+ <picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&theme=tokyonight&hide_border=true">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&theme=buefy&hide_border=true">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arganata-on&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
 </picture>
 </td>
 </tr>
