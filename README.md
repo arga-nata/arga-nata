@@ -1,7 +1,4 @@
 <div align="center">
-</div>
-
-<div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1134220267535745065)](https://discord.com/users/1134220267535745065)
 
@@ -58,9 +55,11 @@
 
 ### 💻 **Languages & Frameworks**
 
+<div align="center">
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,java,php,html,css,mysql,git,vscode,idea,stackoverflow" />
 </p>
+</div>
 
 ### 📟 **System Diagnostics**
 
