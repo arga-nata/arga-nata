@@ -5,7 +5,7 @@
 ### 💻 **Languages & Frameworks**
 
 <div align="center">
-<p><img src="https://skillicons.dev/icons?i=cpp,java,php,html,css,mysql,git,vscode,idea,stackoverflow" /></p>
+<p><img src="https://skillicons.dev/icons?i=cpp,java,php,html,css,mysql,git,vscode,idea" /></p>
 </div>
 
 ### 🦉 **GitHub Stats**
