@@ -33,9 +33,9 @@
 <tr> 
 <td width="60%" align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy&hide_border=true&langs_count=6">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=normal&theme=tokyonight&hide_border=true&langs_count=6" alt="WakaTime Stats">
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&range=last_7_days">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy&hide_border=true&langs_count=6&range=last_7_days">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=normal&theme=tokyonight&hide_border=true&langs_count=6&range=last_7_days" alt="WakaTime Weekly Stats">
 </picture>
 </td>
 <td width="40%" align="center">
