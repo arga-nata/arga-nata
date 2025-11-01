@@ -21,7 +21,11 @@
 </td>
 <td width="50%" align="center">
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=arga-nata&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=arga-nata&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=arga-nata&theme=buefy&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=arga-nata&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  </picture>
 </a>
 </td>
 </tr>
