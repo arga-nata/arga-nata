@@ -10,10 +10,6 @@
 
 ### 🦉 **GitHub Stats**
 
-<div align="center">
-<img src="https://wakatime.com/badge/user/d836a4cf-22a4-4329-9e56-d0c54829e6dd.svg" />
-</div>
-
 <table width="100%">
 <tr> 
 <td>
@@ -24,11 +20,9 @@
 </picture>
 </td>
 <td width="50%" align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=arga-nata&theme=tokyonight&hide_border=true">
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=arga-nata&theme=buefy&hide_border=true">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arga-nata&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
-</picture>
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=arga-nata&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 </td>
 </tr>
 </table>
