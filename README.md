@@ -5,10 +5,14 @@
 ### 💻 **Languages & Frameworks**
 
 <div align="center">
-<p><img src="https://skillicons.dev/icons?i=cpp,java,php,html,css,mysql,git,vscode,idea" /></p>
+<img src="https://skillicons.dev/icons?i=cpp,java,php,html,css,mysql,git,vscode,idea" />
 </div>
 
 ### 🦉 **GitHub Stats**
+
+<div align="center">
+<img src="https://wakatime.com/badge/user/d836a4cf-22a4-4329-9e56-d0c54829e6dd.svg" />
+</div>
 
 <table width="100%">
 <tr> 
