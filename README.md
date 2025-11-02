@@ -2,6 +2,17 @@
 <a href="https://discord.com/users/1134220267535745065"><img src="https://lanyard.cnrad.dev/api/1134220267535745065?theme=dark" /></a>
 </div>
 
+<div align="center">
+<img src="https://wakatime.com/badge/user/d836a4cf-22a4-4329-9e56-d0c54829e6dd.svg" alt="WakaTime Total Stats" />
+<img src="https://komarev.com/ghpvc/?username=arga-nata&label=Profile%20Views&style=flat-square&logo=google-analytics" alt="Profile Views" />
+<img src="https://img.shields.io/github/stars/arga-nata?style=flat-square&logo=github&label=Total%20Stars" alt="Total Stars" />
+<a href="https://steamcommunity.com/id/arga-nata">
+<img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Steam Profile" />
+</a>
+</div>
+
+<hr/>
+
 ### 💻 **Languages & Frameworks**
 
 <div align="center">
