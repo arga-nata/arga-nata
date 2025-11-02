@@ -1,17 +1,15 @@
 <div align="center">
-<a href="https://discord.com/users/1134220267535745065"><img src="https://lanyard.cnrad.dev/api/1134220267535745065?theme=dark" /></a>
+<a href="https://discord.com/users/1134220267535745065">
+<img src="https://lanyard.cnrad.dev/api/1134220267535745065?theme=dark" /></a>
 </div>
+
+<br>
 
 <div align="center">
-<img src="https://wakatime.com/badge/user/d836a4cf-22a4-4329-9e56-d0c54829e6dd.svg" alt="WakaTime Total Stats" />
-<img src="https://komarev.com/ghpvc/?username=arga-nata&label=Profile%20Views&style=flat-square&logo=google-analytics" alt="Profile Views" />
-<img src="https://img.shields.io/github/stars/arga-nata?style=flat-square&logo=github&label=Total%20Stars" alt="Total Stars" />
-<a href="https://steamcommunity.com/id/arga-nata">
-<img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Steam Profile" />
-</a>
+<a href="https://wakatime.com/@Arganata"><img src="https://wakatime.com/badge/user/d836a4cf-22a4-4329-9e56-d0c54829e6dd.svg" alt="WakaTime Total Stats"/></a>
+<img src="https://komarev.com/ghpvc/?username=arga-nata&label=Profile%20Views&style=flat-square&logo=google-analytics" alt="Profile Views"/>
+<a href="https://github.com/arga-nata?tab=repositories"><img src="https://img.shields.io/github/stars/arga-nata?style=flat-square&logo=github&label=Total%20Stars" alt="Total Stars"/></a>
 </div>
-
-<hr/>
 
 ### 💻 **Languages & Frameworks**
 
@@ -27,7 +25,7 @@
  <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arga-nata&layout=normal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=arga-nata&layout=normal&show_icons=true&theme=buefy&hide_border=true&count_private=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arga-nata&layout=normal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats Card">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arga-nata&layout=normal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
 </picture>
 </td>
 <td width="50%" align="center">
@@ -35,7 +33,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=arga-nata&theme=tokyonight&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=arga-nata&theme=buefy&hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=arga-nata&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=arga-nata&theme=tokyonight&hide_border=true">
   </picture>
 </a>
 </td>
@@ -46,16 +44,16 @@
 <tr> 
 <td width="60%" align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&range=last_30_days&title=Monthly%20Coding%20Stats">
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy&hide_border=true&langs_count=6&range=last_30_days&title=Monthly%20Coding%20Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=normal&theme=tokyonight&hide_border=true&langs_count=6&range=last_30_days&title=Monthly%20Coding%20Stats" alt="WakaTime Weekly Stats">
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=buefy&hide_border=true&langs_count=6">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=normal&theme=tokyonight&hide_border=true&langs_count=6">
 </picture>
 </td>
 <td width="40%" align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arga-nata&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=12">
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arga-nata&layout=compact&theme=buefy&hide_border=true&count_private=true&langs_count=12">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arga-nata&layout=normal&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&langs_count=12" alt="Top Languages">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arga-nata&layout=normal&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&langs_count=12">
 </picture>
 </td>
 </tr>
