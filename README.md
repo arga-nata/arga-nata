@@ -17,10 +17,10 @@
 <img src="https://skillicons.dev/icons?i=cpp,java,php,html,css,mysql,git,vscode,idea" />
 </div>
 
-<!-- ### 🦉 **GitHub Stats**
+### 🦉 **GitHub Stats**
 
 <table width="100%">
-<tr>
+<tr> 
 <td>
  <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arga-nata&layout=normal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
@@ -41,7 +41,7 @@
 </table>
 
 <table width="100%">
-<tr>
+<tr> 
 <td width="60%" align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arganata&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
@@ -57,7 +57,7 @@
 </picture>
 </td>
 </tr>
-</table> -->
+</table>
 
 ### 🚀 **Featured Projects**
 
@@ -71,16 +71,16 @@
 </a>
 </td>
 <td width="25%" align="center">
-<a href="https://github.com/arga-nata/website-toko-bouquet">
+<a href="https://github.com/arga-nata/learn-php">
 <picture>
-<img src="https://raw.githubusercontent.com/arga-nata/website-toko-bouquet/main/thumbnail.png" alt="Project Website Toko Bouquet">
+<img src="https://img.youtube.com/vi/zZ6vybT1HQs/maxresdefault.jpg" alt="Project Learn PHP">
 </picture>
 </a>
 </td>
 <td width="25%" align="center">
-<a href="https://github.com/arga-nata/learn-php">
+<a href="https://github.com/arga-nata/learn-mysql">
 <picture>
-<img src="https://img.youtube.com/vi/zZ6vybT1HQs/maxresdefault.jpg" alt="Project Learn PHP">
+<img src="https://img.youtube.com/vi/5OdVJbNCSso/maxresdefault.jpg" alt="Project Learn MySQL">
 </picture>
 </a>
 </td>
