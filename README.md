@@ -71,9 +71,9 @@
 </a>
 </td>
 <td width="25%" align="center">
-<a href="https://github.com/arga-nata/learn-php">
+<a href="https://github.com/arga-nata/website-toko-bouquet">
 <picture>
-<img src="https://img.youtube.com/vi/zZ6vybT1HQs/maxresdefault.jpg" alt="Project Learn PHP">
+<img src="https://raw.githubusercontent.com/arga-nata/website-toko-bouquet/main/thumbnail.png" alt="Project Website Toko Bouquet">
 </picture>
 </a>
 </td>
