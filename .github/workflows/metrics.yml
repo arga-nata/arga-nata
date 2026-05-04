@@ -17,11 +17,8 @@ jobs:
           template: classic
           base: "" 
           plugin_wakatime: yes
-          wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
-          wakatime_langs_count: 5
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_limit: 5
           plugin_activity: yes
-          activity_limit: 5
+          plugin_activity_limit: 5
           config_timezone: "Asia/Jakarta"
-          theme: tokyonight
-          hide_border: true
-          hide_source: true
