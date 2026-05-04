@@ -1,0 +1,40 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Update every 6 hours
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # Step 1: Generate WakaTime SVG
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_PAT }}
+          user: arga-nata
+          template: null
+          base: ""
+          filename: wakatime.svg
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_limit: 5
+          config_timezone: "Asia/Jakarta"
+          committer_branch: metrics
+
+      # Step 2: Generate Activity SVG
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_PAT }}
+          user: arga-nata
+          template: null
+          base: ""
+          filename: activity.svg
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_visibility: all
+          plugin_activity_days: 0
+          config_timezone: "Asia/Jakarta"
+          committer_branch: metrics
