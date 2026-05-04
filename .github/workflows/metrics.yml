@@ -19,6 +19,4 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_limit: 5
-          plugin_activity: yes
-          plugin_activity_limit: 5
           config_timezone: "Asia/Jakarta"
