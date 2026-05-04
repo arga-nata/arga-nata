@@ -7,7 +7,7 @@
 
 <img src="https://skillicons.dev/icons?i=php,html,css,mysql,git,linux,vscode" />
 
-<img src="https://raw.githubusercontent.com/arga-nata/arga-nata/output/github-metrics.svg" alt="Metrics Dashboard" />
+<img src="https://raw.githubusercontent.com/arga-nata/arga-nata/metrics/github-metrics.svg" alt="Metrics Dashboard" />
 
 ### 🚀 **Featured Projects**
 

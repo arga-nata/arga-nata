@@ -20,3 +20,4 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_limit: 5
           config_timezone: "Asia/Jakarta"
+          committer_branch: metrics # SIMPAN KE BRANCH METRICS
