@@ -6,13 +6,13 @@
 <img src="line.svg" width="100%" />
 
 ### 💻 **Tech Stack & Environment**
-<div align="center">
+
   <img src="https://skillicons.dev/icons?i=php,html,css,mysql,git,linux,vscode" />
-</div>
 
 <img src="line.svg" width="100%" />
 
 ### 📊 **Metrics & Insights**
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/arga-nata/arga-nata/metrics/wakatime.svg" width="48%" />
   <img src="https://raw.githubusercontent.com/arga-nata/arga-nata/metrics/activity.svg" width="48%" />
