@@ -7,7 +7,7 @@
 
 <img src="https://skillicons.dev/icons?i=php,html,css,mysql,git,linux,vscode" />
 
-<img src="https://github-readme-metrics.vercel.app/api?username=arga-nata&template=classic&base=https%3A%2F%2Fgithub.com%2Farga-nata%2Farga-nata%2Fblob%2Fmain%2Fgithub-metrics.svg&plugin_wakatime=1&wakatime_langs_count=5&plugin_activity=1&activity_limit=5&theme=tokyonight&hide_border=true&hide_source=true" alt="Metrics Dashboard" />
+<img src="https://raw.githubusercontent.com/arga-nata/arga-nata/output/github-metrics.svg" alt="Metrics Dashboard" />
 
 ### 🚀 **Featured Projects**
 

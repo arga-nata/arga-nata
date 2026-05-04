@@ -15,16 +15,13 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: arga-nata
           template: classic
-          base: "" # Base path for the image
+          base: "" 
           plugin_wakatime: yes
           wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
           wakatime_langs_count: 5
           plugin_activity: yes
           activity_limit: 5
           config_timezone: "Asia/Jakarta"
-          # Theme and style
           theme: tokyonight
           hide_border: true
           hide_source: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
