@@ -3,8 +3,6 @@
 <img src="https://lanyard.cnrad.dev/api/1134220267535745065?theme=dark" /></a>
 </div>
 
-# arga nata
-
 <img src="line.svg" width="100%" />
 
 ### 💻 **Tech Stack & Environment**
