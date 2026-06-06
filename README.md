@@ -14,8 +14,8 @@
 ### 📊 **Metrics & Insights**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arga-nata/arga-nata/metrics/wakatime.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/arga-nata/arga-nata/metrics/activity.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/arga-nata/arga-nata/metrics/wakatime.svg" alt="WakaTime Metrics" width="48%" />
+  <img src="https://raw.githubusercontent.com/arga-nata/arga-nata/metrics/activity.svg" alt="Activity Metrics" width="48%" />
 </p>
 
 <div align="center">
