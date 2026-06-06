@@ -1,7 +1,7 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 */6 * * *" # Update every 6 hours
+    - cron: "0 0,6,12,18 * * *" # Update every 6 hours
   workflow_dispatch: # Allow manual trigger
 
 jobs:

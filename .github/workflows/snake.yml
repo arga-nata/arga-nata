@@ -2,7 +2,7 @@ name: generate-snake-game-from-github-contribution-grid
 run-name: 🐍 Update contribution grid snake
 on:
   schedule:
-    - cron: "0 */24 * * *" # run every 24 hours
+    - cron: "0 0 * * *" # run every 24 hours
   workflow_dispatch:
   push:
     branches:
