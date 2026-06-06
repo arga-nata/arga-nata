@@ -13,7 +13,7 @@ jobs:
       # Step 1: Generate WakaTime SVG
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_METRICS_TOKEN }}
           user: arga-nata
           template: null
           base: ""
@@ -27,7 +27,7 @@ jobs:
       # Step 2: Generate Activity SVG
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_METRICS_TOKEN }}
           user: arga-nata
           template: null
           base: ""
