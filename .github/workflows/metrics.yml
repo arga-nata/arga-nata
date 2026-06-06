@@ -34,7 +34,7 @@ jobs:
           filename: activity.svg
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_visibility: all
+          plugin_activity_visibility: public
           plugin_activity_days: 365
           config_timezone: "Asia/Jakarta"
           committer_branch: metrics
