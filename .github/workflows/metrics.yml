@@ -29,12 +29,12 @@ jobs:
         with:
           token: ${{ secrets.GH_METRICS_TOKEN }}
           user: arga-nata
-          template: null
-          base: ""
-          filename: activity.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
           plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
           plugin_activity_limit: 5
-          plugin_activity_visibility: public
-          plugin_activity_days: 90
-          config_timezone: "Asia/Jakarta"
-          committer_branch: metrics
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
