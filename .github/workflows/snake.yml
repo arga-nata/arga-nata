@@ -1,33 +1,30 @@
 name: generate-snake-game-from-github-contribution-grid
-run-name: 🐍 Update contribution grid snake
+
 on:
   schedule:
-    - cron: "0 0 * * *" # run every 24 hours
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-    - main
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
+
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
+
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - name: Generate snake
         uses: platane/snk@v3
         with:
           github_user_name: arga-nata
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        
-      - name: push github-contribution-grid-snake.svg to the output branch
+
+      - name: Push snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_METRICS_TOKEN }}
